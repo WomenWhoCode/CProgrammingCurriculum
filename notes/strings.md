@@ -11,6 +11,7 @@ s = "string literal"
 ```
 
  * Immutable (can't be changed after assignment.)
+ * Stored in 'Read Only' memory, so you can't pass it around.
 
 ###Character Arrays
 ```C
