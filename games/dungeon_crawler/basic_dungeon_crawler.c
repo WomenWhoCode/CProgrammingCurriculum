@@ -47,13 +47,23 @@ void random_monster(int index)
   return;
 }
 
+void monster_hits(int* life)
+{
+  int damage = 10;
+  printf("The monster hit you for %i life. \n\n", damage);
+  *life = *life - damage;
+  printf("Your life is now %i. \n", *life);
+  if (!*life) {
+    printf("Game over. \n");
+  }
+}
+
 int main()
 {
-
+  int life = 40;
   printf("Welcome to the Dungeon! \n");
-  int keep_playing = 1;
   int count = 0;
-  while (keep_playing) {
+  while (life) {
     printf("You have encounted a monster. It's a ");
     int mod_count = (count % 3);
     random_monster(mod_count);
@@ -64,8 +74,7 @@ int main()
       printf("You have passed into the next room. \n\n");
     }
     else {
-      printf("The monster ate you. Game over! \n\n");
-      keep_playing = 0;
+      monster_hits(&life);
     }
     count ++;
   }
