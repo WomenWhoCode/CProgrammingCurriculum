@@ -4,46 +4,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void goblin()
-{
-  printf("goblin \n");
-}
-
-void land_shark()
-{
-  printf("land_shark \n");
-}
-
-void skeleton()
-{
-  printf("skeleton \n");
-}
-
-void boggart()
-{
-  printf("boggart \n");
-}
-
-void gelatinous_cube()
-{
-  printf("gelatinous_cube \n");
-}
+char monsters[][80] = {
+  "goblin \n",
+  "land_shark \n",
+  "skeleton \n",
+  "boggart \n",
+  "gelatinous_cube \n",
+}; // length == 5
 
 void random_monster(int index)
 {
-  if (index == 0) {
-    goblin();
-    return;
-  }
-  if (index == 1) {
-    land_shark();
-    return;
-  }
-  if (index == 2) {
-    skeleton();
-    return;
-  }
-  gelatinous_cube();
+  printf("%s", monsters[index]);
   return;
 }
 
@@ -65,7 +36,7 @@ int main()
   int count = 0;
   while (life) {
     printf("You have encounted a monster. It's a ");
-    int mod_count = (count % 3);
+    int mod_count = (count % 5);
     random_monster(mod_count);
     printf("Will you befriend it? \n");
     char user_input[3];
