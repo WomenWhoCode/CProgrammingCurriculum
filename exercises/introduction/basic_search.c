@@ -71,6 +71,7 @@ int main()
       found ++;
     }
   }
-  printf("Found %i results. Goodbye! \n", found);
+  int item_count = strlen(*languages);
+  printf("Found %i results out of %i items. Goodbye! \n", found, item_count);
   return 0;
 };
