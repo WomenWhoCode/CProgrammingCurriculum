@@ -17,9 +17,10 @@ int main()
     }
     // data validation
     if ((latitude < -90) || (latitude > 90) || (longitude < -180) || (longitude > 180)) {
-      return 2;
+      fprintf(stderr, "Bad data value\n");
+    } else {
+      printf("{ latitude: %f, longitude: %f, info: ':%s' }", latitude, longitude, info);
     }
-    printf("{ latitude: %f, longitude: %f, info: ':%s' }", latitude, longitude, info);
   }
   puts("\n]");
   return 0;

@@ -1,0 +1,5 @@
+data=[
+{ latitude: 1.000000, longitude: 1.000000, info: ':Speed = 21' },
+{ latitude: 2.000000, longitude: 2.000000, info: ':Speed = 23' },
+
+]
