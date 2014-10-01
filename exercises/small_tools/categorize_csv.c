@@ -12,10 +12,17 @@ int main(int argc, char *argv[])
 
   printf("Received %i categories", (argc - 2) / 2);
 
-  FILE *in = fopen("spooky.csv", "r");
+  FILE *in
+  if (!(in = fopen("spooky.csv", "r"))) {
+    fprintf(stderr, "Can't open the file 'spooky.csv'.\n");
+    return 2;
+  }
+
   FILE *file1 = fopen(argv[2], "w");
   FILE *file2 = fopen(argv[4], "w");
   FILE *therest = fopen(argv[5], "w");
+
+
 
   char line[80];
   while (fscanf(in, "%79[^\n]\n", line) == 1) {
