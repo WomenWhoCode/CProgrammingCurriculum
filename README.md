@@ -16,11 +16,10 @@ Games, toys, and exercises from my month of self-taught C.
 [c-strings]: notes/intro/strings.md
 [c-snacks]: notes/intro/c_snacks.md
 
-## Exercises
-### Introduction
+###Small Tools
+ - [Small Tools Intro][small-tools-intro]
+ - [Command Line Options & Arguments][command-line-options]
 
-### Algorithms
+[small-tools-intro]: #
+[command-line-options]: notes/small_tools/command_line_options.md
 
-### Data Structures
-
-## Projects
