@@ -10,11 +10,11 @@ Games, toys, and exercises from my month of self-taught C.
  - [Strings in C][c-strings]
  - [C Snacks (Tips and Tricks)][c-snacks]
 
-[compiling-and-running]: notes/compiling-and-running.md
-[main]: notes/main_function.md
-[c-libraries]: notes/libraries_intro.md
-[c-strings]: notes/strings.md
-[c-snacks]: notes/c_snacks.md
+[compiling-and-running]: notes/intro/compiling-and-running.md
+[main]: notes/intro/main_function.md
+[c-libraries]: notes/intro/libraries_intro.md
+[c-strings]: notes/intro/strings.md
+[c-snacks]: notes/intro/c_snacks.md
 
 ## Exercises
 ### Introduction
