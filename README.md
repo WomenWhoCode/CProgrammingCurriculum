@@ -2,6 +2,11 @@
 
 Games, toys, and exercises from my month of self-taught C.
 
+This is structured as a [free][license] curriculum, in hopes that it will be
+useful to others.
+
+[license]: ./MIT-LICENSE
+
 ## Notes
 ###Basics
  - [Compiling and Running C Programs][compiling-and-running]
