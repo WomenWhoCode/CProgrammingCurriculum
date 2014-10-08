@@ -67,4 +67,16 @@ int main(int argc, char *argv[])
 | Listed first             | Listed second, after the command line options (if any)  |
 | Prefaced with a '-'      | No special format (Optionally preface with '---' to separate from options) |
 
+
+# Separating the Command Line Options and Command Line Arguments
+The program identifies the command line options by their leading `-`, but what
+if you need to pass a commend line *argument* (not an option) that begins with
+  a `-`?
+
+In that case, use `--` to separate the command line options from the command
+line arguments.
+
+```
+> ./set_temperature -c -- -4
+```
 [command-line-args]: ./command_line_arguments.md
