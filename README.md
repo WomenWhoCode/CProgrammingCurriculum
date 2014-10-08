@@ -33,7 +33,7 @@ useful to others.
    - **Exercise:** [Tip Calculator][tip-calculator]
    - **Exercise:** [D&D Character Generator][character-generator]
 
-[small-tools-intro]: #
+[small-tools-intro]: notes/small_tools/small_tools_intro.md
 [command-line-options]: notes/small_tools/command_line_options.md
 [tip-calculator]: exercises/command_line_opts_args/tip_calculator.md
 [character-generator]: exercises/command_line_opts_args/character_generator.md
