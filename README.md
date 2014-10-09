@@ -19,6 +19,7 @@ useful to others.
  - [Data Types][data-types]
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
  - [Pointers and Memory Intro][pointers-intro]
+ - [Reserved Keyword Reference][keyword-ref]
 
 [compiling-and-running]: notes/intro/compiling-and-running.md
 [main]: notes/intro/main_function.md
@@ -28,6 +29,7 @@ useful to others.
 [data-types]: notes/intro/data_types.md
 [finding-size-of]: exercises/data_types/finding_size_of.md
 [pointers-intro]: #TODO_notes/intro/pointers_intro.md
+[keyword-ref]: notes/intro/reserved_keywords.md
 
 ###Small Tools
  - [Small Tools Intro][small-tools-intro]
