@@ -18,6 +18,7 @@ useful to others.
  - [C Snacks (Tips and Tricks)][c-snacks]
  - [Data Types][data-types]
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
+ - [Pointers and Memory Intro][pointers-intro]
 
 [compiling-and-running]: notes/intro/compiling-and-running.md
 [main]: notes/intro/main_function.md
@@ -26,6 +27,7 @@ useful to others.
 [c-snacks]: notes/intro/c_snacks.md
 [data-types]: notes/intro/data_types.md
 [finding-size-of]: exercises/data_types/finding_size_of.md
+[pointers-intro]: #TODO_notes/intro/pointers_intro.md
 
 ###Small Tools
  - [Small Tools Intro][small-tools-intro]
@@ -35,7 +37,7 @@ useful to others.
    - **Exercise:** [D&D Character Generator][character-generator]
 
 [small-tools-intro]: notes/small_tools/small_tools_intro.md
-[data-streams]: #TODO_notes/small_tools/data_streams.md
+[data-streams]: notes/small_tools/data_streams.md
 [command-line-options]: notes/small_tools/command_line_options.md
 [tip-calculator]: exercises/command_line_opts_args/tip_calculator.md
 [character-generator]: exercises/command_line_opts_args/character_generator.md
