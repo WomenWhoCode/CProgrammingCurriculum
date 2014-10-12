@@ -16,6 +16,7 @@ useful to others.
  - [C Libraries][c-libraries]
  - [Strings in C][c-strings]
  - [C Snacks (Tips and Tricks)][c-snacks]
+   - **Exerciase:** [Fizz Buzz][fizz-buzz]
  - [Data Types][data-types]
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
  - [Pointers and Memory Intro][pointers-intro]
@@ -26,6 +27,7 @@ useful to others.
 [c-libraries]: notes/intro/libraries_intro.md
 [c-strings]: notes/intro/strings.md
 [c-snacks]: notes/intro/c_snacks.md
+[fizz-buzz]: exercises/intro/fizz_buzz.md
 [data-types]: notes/intro/data_types.md
 [finding-size-of]: exercises/data_types/finding_size_of.md
 [pointers-intro]: #TODO_notes/intro/pointers_intro.md
