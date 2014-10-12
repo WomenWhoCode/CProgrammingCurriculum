@@ -37,10 +37,17 @@ useful to others.
  - [Command Line Options & Arguments][command-line-options]
    - **Exercise:** [Tip Calculator][tip-calculator]
    - **Exercise:** [D&D Character Generator][character-generator]
+ - [Organizing Code][organizing-code-intro]
+   - **Exercise:** [Variations of Fizz Buzz][fizz-buzz-variations]
+ - [Make Files][make-files]
 
 [small-tools-intro]: notes/small_tools/small_tools_intro.md
 [data-streams]: notes/small_tools/data_streams.md
 [command-line-options]: notes/small_tools/command_line_options.md
 [tip-calculator]: exercises/command_line_opts_args/tip_calculator.md
 [character-generator]: exercises/command_line_opts_args/character_generator.md
+[organizing-code-intro]: #TODO_notes/organizing_code/intro.md
+[fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
+[make-files]: notes/organizing_code/make_files.md
+
 
