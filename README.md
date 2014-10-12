@@ -16,7 +16,7 @@ useful to others.
  - [C Libraries][c-libraries]
  - [Strings in C][c-strings]
  - [C Snacks (Tips and Tricks)][c-snacks]
-   - **Exerciase:** [Fizz Buzz][fizz-buzz]
+   - **Exercise:** [Fizz Buzz][fizz-buzz]
  - [Data Types][data-types]
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
  - [Pointers and Memory Intro][pointers-intro]
@@ -50,6 +50,4 @@ useful to others.
 [character-generator]: exercises/command_line_opts_args/character_generator.md
 [organizing-code-intro]: #TODO_notes/organizing_code/intro.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
-[make-files]: notes/organizing_code/make_files.md
-
-
+[make-files]: #TODO_notes/organizing_code/make_files.md

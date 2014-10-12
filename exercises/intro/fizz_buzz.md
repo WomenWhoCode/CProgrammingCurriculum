@@ -10,7 +10,7 @@ Implement a program that counts to 100 following these rules:
 
 [More context on Fizz Buzz.][fizz-buzz-wikipedia]
 
-[**Solution:** Fizz Buzz Variations][fizz-buzz-variations-solution]
+[**Solution:** Fizz Buzz][fizz-buzz-solution]
 
 [fizz-buzz-wikipedia]: http://en.wikipedia.org/wiki/Fizz_buzz
-[fizz-buzz-variations-solution]: ../../solutions/intro/fizz_buzz.c
+[fizz-buzz-solution]: ../../solutions/intro/fizz_buzz.c

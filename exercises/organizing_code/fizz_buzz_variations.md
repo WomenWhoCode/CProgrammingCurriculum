@@ -2,7 +2,7 @@
 
 To practice reusing pieces of code between projects, we will be putting the
 methods to display 'fizz' and 'buzz' in their own files and reusing them
-between programs that implement [different variations of Fizz Buzz].
+between programs that implement [different variations of Fizz Buzz][fizz-buzz-variations].
 
 Your program should use the game rules and count through 100 numbers.
 
@@ -29,5 +29,5 @@ Follow the rules of Fizz Buzz, but iterate through numbers using base-5 counting
 
 [**Solution:** Fizz Buzz Variations][fizz-buzz-variations-solution]
 
-[variations-of-fizz-buzz]: http://en.wikipedia.org/wiki/Fizz_buzz
+[fizz-buzz-variations]: http://en.wikipedia.org/wiki/Fizz_buzz
 [fizz-buzz-variations-solution]: #
