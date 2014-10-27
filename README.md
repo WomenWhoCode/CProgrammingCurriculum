@@ -20,6 +20,7 @@ useful to others.
  - [Data Types][data-types]
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
  - [Pointers and Memory Intro][pointers-intro]
+   - **Exercise:** [Caesar Cipher][caesar-cipher]
  - [Reserved Keyword Reference][keyword-ref]
 
 [compiling-and-running]: notes/intro/compiling-and-running.md
@@ -31,6 +32,7 @@ useful to others.
 [data-types]: notes/intro/data_types.md
 [finding-size-of]: exercises/data_types/finding_size_of.md
 [pointers-intro]: #TODO_notes/intro/pointers_intro.md
+[caesar-cipher]: #TODO_exercises/intro/caesar_cipher.md
 [keyword-ref]: notes/intro/reserved_keywords.md
 
 ###Small Tools
@@ -39,7 +41,10 @@ useful to others.
  - [Command Line Options & Arguments][command-line-options]
    - **Exercise:** [Tip Calculator][tip-calculator]
    - **Exercise:** [D&D Character Generator][character-generator]
+
+###Organizing Code
  - [Organizing Code][organizing-code-intro]
+   - [Cipher Project Tutorial][cipher-project-tutorial]
    - **Exercise:** [Variations of Fizz Buzz][fizz-buzz-variations]
  - [Make Files][make-files]
 
@@ -49,5 +54,6 @@ useful to others.
 [tip-calculator]: exercises/command_line_opts_args/tip_calculator.md
 [character-generator]: exercises/command_line_opts_args/character_generator.md
 [organizing-code-intro]: #TODO_notes/organizing_code/intro.md
+[cipher-project-tutorial]: #TODO_notes/organizering_code/cipher_project_tutorial.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
 [make-files]: #TODO_notes/organizing_code/make_files.md
