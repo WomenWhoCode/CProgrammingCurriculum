@@ -47,6 +47,7 @@ useful to others.
    - [Cipher Project Tutorial][cipher-project-tutorial]
    - **Exercise:** [Variations of Fizz Buzz][fizz-buzz-variations]
  - [Make Files][make-files]
+   - **Exerciase:** [Make some Makefiles][makefile-exercise]
 
 [small-tools-intro]: notes/small_tools/small_tools_intro.md
 [data-streams]: notes/small_tools/data_streams.md
@@ -57,3 +58,4 @@ useful to others.
 [cipher-project-tutorial]: #TODO_notes/organizering_code/cipher_project_tutorial.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
 [make-files]: #TODO_notes/organizing_code/make_files.md
+[makefile-exercise]: exercises/organizing_code/makefiles.md
