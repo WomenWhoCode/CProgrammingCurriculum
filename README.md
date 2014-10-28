@@ -42,6 +42,12 @@ useful to others.
    - **Exercise:** [Tip Calculator][tip-calculator]
    - **Exercise:** [D&D Character Generator][character-generator]
 
+[small-tools-intro]: notes/small_tools/small_tools_intro.md
+[data-streams]: notes/small_tools/data_streams.md
+[command-line-options]: notes/small_tools/command_line_options.md
+[tip-calculator]: exercises/command_line_opts_args/tip_calculator.md
+[character-generator]: exercises/command_line_opts_args/character_generator.md
+
 ###Organizing Code
  - [Organizing Code][organizing-code-intro]
    - [Cipher Project Tutorial][cipher-project-tutorial]
@@ -49,13 +55,15 @@ useful to others.
  - [Make Files][make-files]
    - **Exerciase:** [Make some Makefiles][makefile-exercise]
 
-[small-tools-intro]: notes/small_tools/small_tools_intro.md
-[data-streams]: notes/small_tools/data_streams.md
-[command-line-options]: notes/small_tools/command_line_options.md
-[tip-calculator]: exercises/command_line_opts_args/tip_calculator.md
-[character-generator]: exercises/command_line_opts_args/character_generator.md
 [organizing-code-intro]: #TODO_notes/organizing_code/intro.md
 [cipher-project-tutorial]: #TODO_notes/organizering_code/cipher_project_tutorial.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
 [make-files]: #TODO_notes/organizing_code/make_files.md
 [makefile-exercise]: exercises/organizing_code/makefiles.md
+
+###Data Structures
+ - [Structs][structs-intro]
+ - Unions
+ - Bitfields
+
+[structs-intro]: nots/data_structures/structs.md
