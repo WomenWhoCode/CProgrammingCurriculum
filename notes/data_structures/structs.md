@@ -44,6 +44,13 @@ int main()
 **With a struct:**
 
 ```c
+struct cat {
+  const char* name;
+  const char* breed;
+  int weight;
+  int age;
+};
+
 /* record the cat data in the csv */
 void record_stats(struct cat c)
 {
@@ -64,13 +71,6 @@ void enter_in_cat_show(struct cat c)
 
 int main()
 {
-  struct cat {
-    const char* name;
-    const char* breed;
-    int weight;
-    int age;
-  };
-
   struct cat garfield = {"Garfield", "main coon", 200, 14}
 
   record_stats(garfield);
@@ -88,7 +88,7 @@ void record_stats(struct cat c)
 {
  FILE *cat_csv = fopen("cats.csv", "w");
 
- fprintf(cat_csv, "name: %s\n breed: %s\n weight: %i\n age: %i\n\n", c.name, c.breed, c.weight, c.age);
+ fprintf(cat_csv, "name: %s\n breed: %s\n weight: %i\n age: %i,\n\n", c.name, c.breed, c.weight, c.age);
  fclose(cat_csv);
 }
 
