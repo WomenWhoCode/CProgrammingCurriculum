@@ -53,17 +53,21 @@ useful to others.
    - [Cipher Project Tutorial][cipher-project-tutorial]
    - **Exercise:** [Variations of Fizz Buzz][fizz-buzz-variations]
  - [Make Files][make-files]
-   - **Exerciase:** [Make some Makefiles][makefile-exercise]
+   - **Exercise:** [Make some Makefiles][makefile-exercise]
 
 [organizing-code-intro]: #TODO_notes/organizing_code/intro.md
-[cipher-project-tutorial]: #TODO_notes/organizering_code/cipher_project_tutorial.md
+[cipher-project-tutorial]: #TODO_notes/organizing_code/cipher_project_tutorial.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
 [make-files]: #TODO_notes/organizing_code/make_files.md
 [makefile-exercise]: exercises/organizing_code/makefiles.md
 
 ###Data Structures
  - [Structs][structs-intro]
+   - [Cat Toy Factory Tutorial][cat-toy-tutorial]
+   - **Project:** [Dungeon Crawler Part 1][dungeon-crawler-pt-1]
  - Unions
  - Bitfields
 
-[structs-intro]: nots/data_structures/structs.md
+[structs-intro]: notes/data_structures/structs.md
+[cat-toy-tutorial]: #TODO_notes/data_structures/cat_toy_tutorial.md
+[dungeon-crawler-pt-1]: #TODO_exercises/projects/dungeon_crawler_part_1.md
