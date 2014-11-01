@@ -71,7 +71,7 @@ void enter_in_cat_show(struct cat c)
 
 int main()
 {
-  struct cat garfield = {"Garfield", "main coon", 200, 14}
+  struct cat garfield = {"Garfield", "main coon", 200, 14};
 
   record_stats(garfield);
   display_stats(garfield);
