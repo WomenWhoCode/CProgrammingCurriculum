@@ -2,9 +2,9 @@
 
 // Define cat toy structure
 struct cat_toy {
-  char *name;
-  char *type;
-  char *color;
+  char name[50];
+  char type[50];
+  char color[50];
 };
 
 // Define the cat structure (with nested cat toy structures)
@@ -20,9 +20,9 @@ struct cat {
 // Create a method that can generate cat toys based on user input
 struct cat_toy generate_cat_toy()
 {
-  char *toy_name;
-  char *toy_type;
-  char *toy_color;
+  char toy_name[50] = "";
+  char toy_type[50] = "";
+  char toy_color[50] = "";
   puts("Please enter a name for this cat toy:");
   scanf("%s", toy_name);
 
@@ -32,18 +32,16 @@ struct cat_toy generate_cat_toy()
   puts("Please enter a color for this cat toy:");
   scanf("%s", toy_color);
   printf("\n");
+  printf("%s was created.", toy_name);
 
-  struct cat_toy this_toy;
-  this_toy.name = toy_name;
-  this_toy.type = toy_type;
-  this_toy.color = toy_color;
+  struct cat_toy this_toy  = {*toy_name, *toy_type, *toy_color};
   return this_toy;
 }
 
 // Make a method to print a summary of any toy
 void print_toy_info(struct cat_toy t)
 {
-  printf("a %s %s called %s,", t.color, t.type, t.name);
+  printf("a %s", t.name);
 }
 
 // Make a method to print a bio of any cat
@@ -70,8 +68,12 @@ struct cat garfield = {"Garfield", "main coon", 200, 14};
 
 // Generate 3 instances of cat toys
 struct cat_toy all_toys[3];
+generate_cat_toy();
+puts("First toy:");
 all_toys[0] = generate_cat_toy();
+puts("Second toy:");
 all_toys[1] = generate_cat_toy();
+puts("Third toy:");
 all_toys[2] = generate_cat_toy();
 
 // List the 3 toys and ask the user to pick Garfield's favorite
@@ -82,6 +84,7 @@ for (counter = 0; counter <= 3; counter++) {
   print_toy_info(all_toys[counter]);
   printf("\n");
 }
+/*
 printf("Which one is %s's favorite?", garfield.name);
 int favorite_index;
 scanf("%d", &favorite_index);
@@ -95,4 +98,5 @@ garfield.toys[2] = all_toys[2];
 
 // Print Garfield's bio
 print_bio(garfield);
+*/
 }
