@@ -1,29 +1,74 @@
 #C Programming Curriculum
 
-###Basics
+## Week 1: Compilation
  - [Compiling and Running C Programs][compiling-and-running]
  - [The "Main" Function][main]
- - [C Libraries][c-libraries]
- - [Strings in C][c-strings]
- - [C Snacks (Tips and Tricks)][c-snacks]
-   - **Exercise:** [Fizz Buzz][fizz-buzz]
- - [Data Types][data-types]
-   - **Exercise:** [Finding the Size of Data Types][finding-size-of]
- - [Pointers and Memory Intro][pointers-intro] **(TODO)**
-   - **Exercise:** [Caesar Cipher][caesar-cipher] **(TODO)**
- - [Reserved Keyword Reference][keyword-ref]
+   - **Exercise:** Hello World *(TODO)*
+   - **Exercise:** Basic Calculator *(TODO)*
 
 [compiling-and-running]: notes/intro/compiling-and-running.md
 [main]: notes/intro/main_function.md
-[c-libraries]: notes/intro/libraries_intro.md
+
+## Week 2: Basics Part 1
+ - Variable Declaration *(TODO)*
+ - [Strings in C][c-strings]
+ - [Data Types][data-types]
+   - **Exercise:** [Finding the Size of Data Types][finding-size-of]
+ - Conditionals *(TODO)*
+ - Loops *(TODO)*
+ - Arithmetic Operations *(TODO)*
+ - Printing *(TODO)*
+ - [C Snacks (Tips and Tricks)][c-snacks]
+   - **Exercise:** [Fizz Buzz][fizz-buzz]
+
 [c-strings]: notes/intro/strings.md
-[c-snacks]: notes/intro/c_snacks.md
-[fizz-buzz]: exercises/intro/fizz_buzz.md
 [data-types]: notes/intro/data_types.md
 [finding-size-of]: exercises/data_types/finding_size_of.md
-[pointers-intro]: #TODO_notes/intro/pointers_intro.md
-[caesar-cipher]: #TODO_exercises/intro/caesar_cipher.md
-[keyword-ref]: notes/intro/reserved_keywords.md
+[c-snacks]: notes/intro/c_snacks.md
+[fizz-buzz]: exercises/intro/fizz_buzz.md
+
+## Week 3: Basics Part 2
+ - Arrays *(TODO)*
+ - Functions *(TODO)*
+ - More About Data Types *(TODO)*
+ - Type Conversion *(TODO)*
+ - **exercise**s *(TODO)*
+
+## Week 4: C Specific Basics
+ - [C Libraries][c-libraries]
+ - Using multiple files in a project *(TODO)*
+   - **Exercise:** [Variations of Fizz Buzz][fizz-buzz-variations]
+ - [Make Files][make-files] *(TODO)*
+   - **Exercise:** [Make some Makefiles][makefile-exercise]
+ - sizeof and memory allocation *(TODO)*
+   - **Exercise:** Caesar Cipher *(TODO)*
+ - [Reserved Keyword Reference][reserved-keywords]
+
+[c-libraries]: notes/intro/libraries_intro.md
+[fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
+[makefile-exercise]: exercises/organizing_code/makefiles.md
+[reserved-keywords]: notes/intro/reserved_keywords.md
+
+## Week 5: Pointers and Standard Libraries
+ - Pointers *(TODO)*
+ - Standard Libraries *(TODO)*
+ - **exercise**s *(TODO)*
+
+## Week 6: Memory Allocation
+ - *(TODO)*
+
+## Week 7: Data Types
+ - [Structs][structs-intro]
+ - Unions *(TODO)*
+ - Enums *(TODO)*
+ - **exercise**s *(TODO)*
+
+[structs-intro]: notes/data_structures/structs.md
+
+## Week 8: Advanced Topic
+ - Bitwise Operations or Buffer Overflow *(TODO)*
+
+###Bonus Material:
 
 ###Small Tools
  - [Small Tools Intro][small-tools-intro]
@@ -37,27 +82,3 @@
 [command-line-options]: notes/small_tools/command_line_options.md
 [tip-calculator]: exercises/command_line_opts_args/tip_calculator.md
 [character-generator]: exercises/command_line_opts_args/character_generator.md
-
-###Organizing Code
- - [Organizing Code][organizing-code-intro] **(TODO)**
-   - [Cipher Project Tutorial][cipher-project-tutorial] **(TODO)**
-   - **Exercise:** [Variations of Fizz Buzz][fizz-buzz-variations]
- - [Make Files][make-files] **(TODO)**
-   - **Exercise:** [Make some Makefiles][makefile-exercise]
-
-[organizing-code-intro]: #TODO_notes/organizing_code/intro.md
-[cipher-project-tutorial]: #TODO_notes/organizing_code/cipher_project_tutorial.md
-[fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
-[make-files]: #TODO_notes/organizing_code/make_files.md
-[makefile-exercise]: exercises/organizing_code/makefiles.md
-
-###Data Structures
- - [Structs][structs-intro]
-   - [Cat Toy Factory Tutorial][cat-toy-tutorial] **(TODO)**
-   - **Project:** [Dungeon Crawler Part 1][dungeon-crawler-pt-1] **(TODO)**
- - Unions
- - Bitfields
-
-[structs-intro]: notes/data_structures/structs.md
-[cat-toy-tutorial]: #TODO_notes/data_structures/cat_toy_tutorial.md
-[dungeon-crawler-pt-1]: #TODO_exercises/projects/dungeon_crawler_part_1.md
