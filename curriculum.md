@@ -3,7 +3,7 @@
 ## Week 1: Compilation
  - [Compiling and Running C Programs][compiling-and-running]
  - [The "Main" Function][main]
-   - **Exercise:** Hello World
+   - **Exercise:** [Hello World][hello-world]
    - **Exercise:** [Fizz Buzz][fizz-buzz]
    - **Exercise:** [Formatted Printing][learn-c-hard-way-ex-3] from Learn C The
      Hard Way (Ignore the
