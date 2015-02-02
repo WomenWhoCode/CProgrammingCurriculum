@@ -3,11 +3,20 @@
 ## Week 1: Compilation
  - [Compiling and Running C Programs][compiling-and-running]
  - [The "Main" Function][main]
-   - **Exercise:** Hello World *(TODO)*
-   - **Exercise:** Basic Calculator *(TODO)*
+   - **Exercise:** Hello World
+   - **Exercise:** [Fizz Buzz][fizz-buzz]
+   - **Exercise:** [Formatted Printing][learn-c-hard-way-ex-3] from Learn C The
+     Hard Way (Ignore the
+     comments about using Make.)
+   - **Exercise:** [Fahrenheit to Celsius][k-r-p8] from The C Programming Language (p.
+     8-14)
 
 [compiling-and-running]: notes/intro/compiling-and-running.md
 [main]: notes/intro/main_function.md
+[hello-world]: exercises/intro/hello_world.md
+[fizz-buzz]: exercises/intro/fizz_buzz.md
+[learn-c-hard-way-ex-3]: http://c.learncodethehardway.org/book/ex3.html
+[k-r-p8]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=22
 
 ## Week 2: Basics Part 1
  - Variable Declaration *(TODO)*
@@ -18,14 +27,13 @@
  - Loops *(TODO)*
  - Arithmetic Operations *(TODO)*
  - Printing *(TODO)*
+   - **Exercise:** Basic Calculator *(TODO)*
  - [C Snacks (Tips and Tricks)][c-snacks]
-   - **Exercise:** [Fizz Buzz][fizz-buzz]
 
 [c-strings]: notes/intro/strings.md
 [data-types]: notes/intro/data_types.md
 [finding-size-of]: exercises/data_types/finding_size_of.md
 [c-snacks]: notes/intro/c_snacks.md
-[fizz-buzz]: exercises/intro/fizz_buzz.md
 
 ## Week 3: Basics Part 2
  - Arrays *(TODO)*
