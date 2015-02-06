@@ -6,13 +6,13 @@
    - [clang demo][clang-demo]
    - [clang versus gcc][clang-vs-gcc] from clang.llvm.org
  - [The "Main" Function][main]
-   - **Exercise:** [Hello World][hello-world]
-   - **Exercise:** [Fizz Buzz][fizz-buzz]
-   - **Exercise:** [Formatted Printing][learn-c-hard-way-ex-3] from Learn C The
-     Hard Way (Ignore the
-     comments about using Make.)
-   - **Exercise:** [Fahrenheit to Celsius][k-r-p8] from The C Programming Language (p.
-     8-14)
+ - **Exercise:** [Hello World][hello-world]
+ - **Exercise:** [Formatted Printing][learn-c-hard-way-ex-3] from Learn C The
+   Hard Way (Ignore the
+   comments about using Make.)
+ - **Exercise:** [Fahrenheit to Celsius][k-r-p8] from The C Programming Language (p.
+   8-14)
+ - **Exercise:** [Fizz Buzz][fizz-buzz]
 
 [gcc-demo]: notes/intro/gcc-demo.md
 [clang-demo]: notes/intro/clang-demo.md
