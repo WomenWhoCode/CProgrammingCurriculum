@@ -3,6 +3,7 @@
 > "The first program to write is the same for all languages:"
 > *Print the words*
 >  `hello, world`
+
  --- 'The C Programming Language', p. 5
 
 **More details:**
