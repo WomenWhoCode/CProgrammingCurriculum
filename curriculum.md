@@ -1,7 +1,10 @@
 #C Programming Curriculum
 
 ## Week 1: Compilation
- - [Compiling and Running C Programs][compiling-and-running]
+ - Compiling and Running C Programs
+   - [gcc demo][gcc-demo]
+   - [clang demo][clang-demo]
+   - [clang versus gcc][clang-vs-gcc] from clang.llvm.org
  - [The "Main" Function][main]
    - **Exercise:** [Hello World][hello-world]
    - **Exercise:** [Fizz Buzz][fizz-buzz]
@@ -11,7 +14,9 @@
    - **Exercise:** [Fahrenheit to Celsius][k-r-p8] from The C Programming Language (p.
      8-14)
 
-[compiling-and-running]: notes/intro/compiling-and-running.md
+[gcc-demo]: notes/intro/gcc-demo.md
+[clang-demo]: notes/intro/clang-demo.md
+[clang-vs-gcc]: http://clang.llvm.org/comparison.html#gcc
 [main]: notes/intro/main_function.md
 [hello-world]: exercises/intro/hello_world.md
 [fizz-buzz]: exercises/intro/fizz_buzz.md
