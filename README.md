@@ -2,11 +2,12 @@
 
 ## Goals
  - Understand the topics listed in the curriculum.
- - Complete a personal project written in C.
+ - Complete a [personal project][project-ideas] written in C.
  - Contribute to an [open source project that is written in
    C][open-source-c-projects].
 
 [open-source-c-projects]: notes/meta/open_source_projects.md
+[project-ideas]: notes/meta/project_ideas.md
 
 ## Week 1: Compilation
  - [Why Learn C?][why-learn-c]
