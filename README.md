@@ -12,13 +12,15 @@
    - [clang demo][clang-demo]
    - [clang versus gcc][clang-vs-gcc] from clang.llvm.org
  - [The "Main" Function][main]
-   - **Exercise:** [Hello World][hello-world]
-   - **Exercise:** [Fizz Buzz][fizz-buzz]
-   - **Exercise:** [Formatted Printing][learn-c-hard-way-ex-3] from Learn C The
-     Hard Way (Ignore the
-     comments about using Make.)
-   - **Exercise:** [Fahrenheit to Celsius][k-r-p8] from The C Programming Language (p.
-     8-14)
+ - **Exercises:**
+   - [Hello World][hello-world]
+   - [Formatted Printing][learn-c-hard-way-ex-3] from Learn C The Hard Way
+     (Ignore the comments about using Make.)
+   - [Fahrenheit to Celsius][k-r-p8] from The C Programming Language (p.  8-14)
+   - [Fizz Buzz][fizz-buzz]
+   - **Bonus:** [Euler Problem #1: Multiples of 3 and 5][euler-1]
+   - **Bonus:** [Euler Problem #2: Even Fibonacci Numbers][euler-2]
+   - **Bonus:** [Euler Problem #3: Largest Prime Factor][euler-3]
 
 
 [why-learn-c]: notes/intro/why_learn_c.md
@@ -30,6 +32,9 @@
 [fizz-buzz]: exercises/intro/fizz_buzz.md
 [learn-c-hard-way-ex-3]: http://c.learncodethehardway.org/book/ex3.html
 [k-r-p8]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=22
+[euler-1]: https://projecteuler.net/problem=1
+[euler-2]: https://projecteuler.net/problem=2
+[euler-3]: https://projecteuler.net/problem=3
 
 ## Week 2: Basics Part 1
  - Variable Declaration *(TODO)*
