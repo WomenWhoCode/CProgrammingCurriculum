@@ -53,8 +53,6 @@
  - [Arithmetic Operations][arithmetic-operations] from "The C Programming Language" (p.41)
    - **Exercise:** [More Variables, Some Math][learn-c-hard-way-ex-7] from "Learn C The Hard Way"
    - **Exercise:** Basic Calculator *(TODO)*
- - External Variables *(TODO)*
-   - **Exercise:** [RPN Calculator][k-r-p74] from "The C Programming Language" (p.74-79)
  - [C Snacks (Tips and Tricks)][c-snacks]
 
 [variables]: notes/intro/variables.md
@@ -65,7 +63,6 @@
 [k-r-p20]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=34
 [arithmetic-operations]: notes/intro/arithmetic_operations.md
 [learn-c-hard-way-ex-7]: http://c.learncodethehardway.org/book/ex7.html
-[k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=74
 [c-snacks]: notes/intro/c_snacks.md
 
 ## Week 3: Basics Part 2
@@ -79,6 +76,8 @@
  - [C Libraries][c-libraries]
  - Using multiple files in a project *(TODO)*
    - **Exercise:** [Variations of Fizz Buzz][fizz-buzz-variations]
+ - External Variables *(TODO)*
+   - **Exercise:** [RPN Calculator][k-r-p74] from "The C Programming Language" (p.74-79)
  - [Make Files][make-files] *(TODO)*
    - **Exercise:** [Make some Makefiles][makefile-exercise]
  - sizeof and memory allocation *(TODO)*
@@ -86,6 +85,7 @@
 
 [c-libraries]: notes/intro/libraries_intro.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
+[k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=74
 [makefile-exercise]: exercises/organizing_code/makefiles.md
 [reserved-keywords]: notes/intro/reserved_keywords.md
 
