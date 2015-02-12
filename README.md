@@ -51,7 +51,10 @@
    - **Exercise:** [Word Counter][k-r-p20] from "The C Programming Language" (p.  20-22)
  - Printing *(TODO)*
  - [Arithmetic Operations][arithmetic-operations] from "The C Programming Language" (p.41)
+   - **Exercise:** [More Variables, Some Math][learn-c-hard-way-ex-7] from "Learn C The Hard Way"
    - **Exercise:** Basic Calculator *(TODO)*
+ - External Variables *(TODO)*
+   - **Exercise:** [RPN Calculator][k-r-p74] from "The C Programming Language" (p.74-79)
  - [C Snacks (Tips and Tricks)][c-snacks]
 
 [variables]: notes/intro/variables.md
@@ -61,6 +64,8 @@
 [finding-size-of]: exercises/data_types/finding_size_of.md
 [k-r-p20]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=34
 [arithmetic-operations]: notes/intro/arithmetic_operations.md
+[learn-c-hard-way-ex-7]: http://c.learncodethehardway.org/book/ex7.html
+[k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=74
 [c-snacks]: notes/intro/c_snacks.md
 
 ## Week 3: Basics Part 2
