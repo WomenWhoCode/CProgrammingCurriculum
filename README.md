@@ -47,8 +47,9 @@
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
  - Conditionals *(TODO)*
  - Loops *(TODO)*
- - Arithmetic Operations *(TODO)*
+   - **Exercise:** [Word Counter][k-r-p20] from The C Programming Language (p.  20-22)
  - Printing *(TODO)*
+ - Arithmetic Operations *(TODO)*
    - **Exercise:** Basic Calculator *(TODO)*
  - [C Snacks (Tips and Tricks)][c-snacks]
 
@@ -56,6 +57,7 @@
 [c-strings]: notes/intro/strings.md
 [data-types]: notes/intro/data_types.md
 [finding-size-of]: exercises/data_types/finding_size_of.md
+[k-r-p20]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=34
 [c-snacks]: notes/intro/c_snacks.md
 
 ## Week 3: Basics Part 2
