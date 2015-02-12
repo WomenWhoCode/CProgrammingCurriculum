@@ -49,7 +49,7 @@
  - Loops *(TODO)*
    - **Exercise:** [Word Counter][k-r-p20] from The C Programming Language (p.  20-22)
  - Printing *(TODO)*
- - Arithmetic Operations *(TODO)*
+ - [Arithmetic Operations][arithmetic-operations] from The C Programming Language (p.41)
    - **Exercise:** Basic Calculator *(TODO)*
  - [C Snacks (Tips and Tricks)][c-snacks]
 
@@ -58,6 +58,7 @@
 [data-types]: notes/intro/data_types.md
 [finding-size-of]: exercises/data_types/finding_size_of.md
 [k-r-p20]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=34
+[arithmetic-operations]: notes/intro/arithmetic_operations.md
 [c-snacks]: notes/intro/c_snacks.md
 
 ## Week 3: Basics Part 2
