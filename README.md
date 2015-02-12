@@ -18,9 +18,9 @@
  - [The "Main" Function][main]
  - **Exercises:**
    - [Hello World][hello-world]
-   - [Formatted Printing][learn-c-hard-way-ex-3] from Learn C The Hard Way
+   - [Formatted Printing][learn-c-hard-way-ex-3] from "Learn C The Hard Way"
      (Ignore the comments about using Make.)
-   - [Fahrenheit to Celsius][k-r-p8] from The C Programming Language (p.  8-14)
+   - [Fahrenheit to Celsius][k-r-p8] from "The C Programming Language" (p.  8-14)
    - [Fizz Buzz][fizz-buzz]
    - **Bonus:** [Euler Problem #1: Multiples of 3 and 5][euler-1]
    - **Bonus:** [Euler Problem #2: Even Fibonacci Numbers][euler-2]
@@ -47,9 +47,9 @@
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
  - Conditionals *(TODO)*
  - Loops *(TODO)*
-   - **Exercise:** [Word Counter][k-r-p20] from The C Programming Language (p.  20-22)
+   - **Exercise:** [Word Counter][k-r-p20] from "The C Programming Language" (p.  20-22)
  - Printing *(TODO)*
- - [Arithmetic Operations][arithmetic-operations] from The C Programming Language (p.41)
+ - [Arithmetic Operations][arithmetic-operations] from "The C Programming Language" (p.41)
    - **Exercise:** Basic Calculator *(TODO)*
  - [C Snacks (Tips and Tricks)][c-snacks]
 
@@ -116,6 +116,14 @@
 [tip-calculator]: exercises/command_line_opts_args/tip_calculator.md
 [character-generator]: exercises/command_line_opts_args/character_generator.md
 
+###Resources
+
+Much of the material for this course was drawn from the following:
+ - ["The C Programming Language"][k-r-main] by Brian W. Kernighan and Dennis M.  Ritchie
+ - ["Learn C The Hard Way"][learn-c-hard-way-main] by Zed Shaw
+
+[k-r-main]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf
+[learn-c-hard-way-main]: http://c.learncodethehardway.org/book/
 
 ###License
 [MIT License][mit-license]
