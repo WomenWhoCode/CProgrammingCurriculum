@@ -41,7 +41,7 @@
 [euler-3]: https://projecteuler.net/problem=3
 
 ## Week 2: Basics Part 1
- - Variable Declaration *(TODO)*
+ - [Variable Declaration][variables]
  - [Strings in C][c-strings]
  - [Data Types][data-types]
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
@@ -52,6 +52,7 @@
    - **Exercise:** Basic Calculator *(TODO)*
  - [C Snacks (Tips and Tricks)][c-snacks]
 
+[variables]: notes/intro/variables.md
 [c-strings]: notes/intro/strings.md
 [data-types]: notes/intro/data_types.md
 [finding-size-of]: exercises/data_types/finding_size_of.md
@@ -72,7 +73,6 @@
    - **Exercise:** [Make some Makefiles][makefile-exercise]
  - sizeof and memory allocation *(TODO)*
    - **Exercise:** Caesar Cipher *(TODO)*
- - [Reserved Keyword Reference][reserved-keywords]
 
 [c-libraries]: notes/intro/libraries_intro.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
