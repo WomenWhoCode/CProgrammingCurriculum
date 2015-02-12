@@ -44,6 +44,7 @@
  - [Variable Declaration][variables]
  - [Strings in C][c-strings]
  - [Data Types][data-types]
+   - **Exercise:** [Types of Variables][learn-c-hard-way-ex-6] from "Learn C The Hard Way"
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
  - Conditionals *(TODO)*
  - Loops *(TODO)*
@@ -56,6 +57,7 @@
 [variables]: notes/intro/variables.md
 [c-strings]: notes/intro/strings.md
 [data-types]: notes/intro/data_types.md
+[learn-c-hard-way-ex-6]: http://c.learncodethehardway.org/book/ex6.html
 [finding-size-of]: exercises/data_types/finding_size_of.md
 [k-r-p20]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=34
 [arithmetic-operations]: notes/intro/arithmetic_operations.md
