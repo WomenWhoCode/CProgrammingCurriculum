@@ -46,7 +46,7 @@
  - [Data Types][data-types]
    - **Exercise:** [Types of Variables][learn-c-hard-way-ex-6] from "Learn C The Hard Way"
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
- - Conditionals *(TODO)*
+ - [Conditionals][conditionals]
  - Loops *(TODO)*
    - **Exercise:** [Word Counter][k-r-p20] from "The C Programming Language" (p.  20-22)
  - Printing *(TODO)*
@@ -60,6 +60,7 @@
 [data-types]: notes/intro/data_types.md
 [learn-c-hard-way-ex-6]: http://c.learncodethehardway.org/book/ex6.html
 [finding-size-of]: exercises/data_types/finding_size_of.md
+[conditionals]: notes/intro/conditionals.md
 [k-r-p20]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=34
 [arithmetic-operations]: notes/intro/arithmetic_operations.md
 [learn-c-hard-way-ex-7]: http://c.learncodethehardway.org/book/ex7.html
