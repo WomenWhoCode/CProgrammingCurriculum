@@ -47,11 +47,11 @@
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
  - [Strings in C][c-strings]
    - **Exercise:** [Arrays and Strings][learn-c-hard-way-ex-9] from "Learn C The Hard Way"
+ - [Printing][printing]
  - [Conditionals][conditionals]
    - **Exercise:** [If, Else-If, Else][learn-c-hard-way-ex-12] from "Learn C The Hard Way" (Bonus: This exercise uses [command line arguments][command-line-options].)
  - [Loops][loops]
    - **Exercise:** [Word Counter][k-r-p20] from "The C Programming Language" (p.  20-22)
- - Printing *(TODO)*
  - [Arithmetic Operations][arithmetic-operations] from "The C Programming Language" (p.41)
    - **Exercise:** [More Variables, Some Math][learn-c-hard-way-ex-7] from "Learn C The Hard Way"
    - **Exercise:** Basic Calculator *(TODO)*
@@ -63,6 +63,7 @@
 
 [variables]: notes/intro/variables.md
 [c-strings]: notes/intro/strings.md
+[printing]: notes/intro/printing.md
 [data-types]: notes/intro/data_types.md
 [learn-c-hard-way-ex-6]: http://c.learncodethehardway.org/book/ex6.html
 [finding-size-of]: exercises/data_types/finding_size_of.md
