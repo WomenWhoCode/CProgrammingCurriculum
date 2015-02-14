@@ -3,8 +3,8 @@
 This is just one step above 'Hello World'.
 
 Implement a program that counts to 100 following these rules:
- * If (n % 3 === 0) print 'fizz'.
- * If (n % 5 === 0) print 'buzz'.
+ * If (n % 3 == 0) print 'fizz'.
+ * If (n % 5 == 0) print 'buzz'.
  * When both of the above are true, both 'fizz' and 'buzz' are printed.
  * If neither of the previous were true, print the number.
 
