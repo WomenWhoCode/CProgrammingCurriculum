@@ -49,7 +49,7 @@
    - **Exercise:** [Arrays and Strings][learn-c-hard-way-ex-9] from "Learn C The Hard Way"
  - [Conditionals][conditionals]
    - **Exercise:** [If, Else-If, Else][learn-c-hard-way-ex-12] from "Learn C The Hard Way" (Bonus: This exercise uses [command line arguments][command-line-options].)
- - Loops *(TODO)*
+ - [Loops][loops]
    - **Exercise:** [Word Counter][k-r-p20] from "The C Programming Language" (p.  20-22)
  - Printing *(TODO)*
  - [Arithmetic Operations][arithmetic-operations] from "The C Programming Language" (p.41)
@@ -64,6 +64,7 @@
 [finding-size-of]: exercises/data_types/finding_size_of.md
 [learn-c-hard-way-ex-12]: http://c.learncodethehardway.org/book/ex12.html
 [conditionals]: notes/intro/conditionals.md
+[loops]: notes/intro/loops.md
 [k-r-p20]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=34
 [arithmetic-operations]: notes/intro/arithmetic_operations.md
 [learn-c-hard-way-ex-7]: http://c.learncodethehardway.org/book/ex7.html
