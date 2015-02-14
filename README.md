@@ -56,6 +56,10 @@
    - **Exercise:** [More Variables, Some Math][learn-c-hard-way-ex-7] from "Learn C The Hard Way"
    - **Exercise:** Basic Calculator *(TODO)*
  - [C Snacks (Tips and Tricks)][c-snacks]
+ - **More Exercises:**
+   - **Bonus:** [Arrays of Strings, Looping][learn-c-hard-way-ex-10] from "Learn C The Hard Way"
+   - **Bonus:** [While-Loop And Boolean Expressions][learn-c-hard-way-ex-11] from "Learn C The Hard Way"
+
 
 [variables]: notes/intro/variables.md
 [c-strings]: notes/intro/strings.md
@@ -70,6 +74,8 @@
 [learn-c-hard-way-ex-7]: http://c.learncodethehardway.org/book/ex7.html
 [learn-c-hard-way-ex-9]: http://c.learncodethehardway.org/book/ex9.html
 [c-snacks]: notes/intro/c_snacks.md
+[learn-c-hard-way-ex-10]: http://c.learncodethehardway.org/book/ex10.html
+[learn-c-hard-way-ex-11]: http://c.learncodethehardway.org/book/ex11.html
 
 ## Week 3: Basics Part 2
  - Arrays *(TODO)*
