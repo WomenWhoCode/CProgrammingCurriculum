@@ -47,6 +47,7 @@
    - **Exercise:** [Finding the Size of Data Types][finding-size-of]
  - [Strings in C][c-strings]
    - **Exercise:** [Arrays and Strings][learn-c-hard-way-ex-9] from "Learn C The Hard Way"
+   (Read the error output from the "break it" section [here][arrays-and-strings-break-it])
  - [Printing][printing]
  - [Conditionals][conditionals]
    - **Exercise:** [If, Else-If, Else][learn-c-hard-way-ex-12] from "Learn C The Hard Way" (Bonus: This exercise uses [command line arguments][command-line-options].)
@@ -73,6 +74,7 @@
 [arithmetic-operations]: notes/intro/arithmetic_operations.md
 [learn-c-hard-way-ex-7]: http://c.learncodethehardway.org/book/ex7.html
 [learn-c-hard-way-ex-9]: http://c.learncodethehardway.org/book/ex9.html
+[arrays-and-strings-break-it]: https://github.com/Frederick-S/Learn-C-The-Hard-Way-Exercise/tree/master/Ex9
 [c-snacks]: notes/intro/c_snacks.md
 [learn-c-hard-way-ex-13]: http://c.learncodethehardway.org/book/ex13.html
 [learn-c-hard-way-ex-10]: http://c.learncodethehardway.org/book/ex10.html
