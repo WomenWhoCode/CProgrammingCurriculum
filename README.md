@@ -55,7 +55,6 @@
    - **Exercise:** [Word Counter][k-r-p20] from "The C Programming Language" (p.  20-22)
  - [Arithmetic Operations][arithmetic-operations] from "The C Programming Language" (p.41)
    - **Exercise:** [More Variables, Some Math][learn-c-hard-way-ex-7] from "Learn C The Hard Way"
- - [C Snacks (Tips and Tricks)][c-snacks]
  - **More Exercises:**
    - **Bonus:** [Switch Statement][learn-c-hard-way-ex-13] from "Learn C The Hard Way"
    - **Bonus:** [Arrays of Strings, Looping][learn-c-hard-way-ex-10] from "Learn C The Hard Way"
@@ -75,7 +74,6 @@
 [learn-c-hard-way-ex-7]: http://c.learncodethehardway.org/book/ex7.html
 [learn-c-hard-way-ex-9]: http://c.learncodethehardway.org/book/ex9.html
 [arrays-and-strings-break-it]: https://github.com/Frederick-S/Learn-C-The-Hard-Way-Exercise/tree/master/Ex9
-[c-snacks]: notes/intro/c_snacks.md
 [learn-c-hard-way-ex-13]: http://c.learncodethehardway.org/book/ex13.html
 [learn-c-hard-way-ex-10]: http://c.learncodethehardway.org/book/ex10.html
 [learn-c-hard-way-ex-11]: http://c.learncodethehardway.org/book/ex11.html
@@ -132,6 +130,9 @@
 
 ###Bonus Material:
 
+- [C Snacks (Tips and Tricks)][c-snacks]
+
+[c-snacks]: notes/intro/c_snacks.md
 ###Small Tools
  - [Small Tools Intro][small-tools-intro]
  - [Command Line Options & Arguments][command-line-options]
