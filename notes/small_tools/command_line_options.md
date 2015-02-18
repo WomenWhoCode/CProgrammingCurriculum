@@ -62,7 +62,7 @@ int main(int argc, char *argv[])
 ```
 
 | Command Line Options     | Command Line Arguments                                  |
---------------------------------------------------------------------------------------
+| ------------------------ | ------------------------------------------------------- |
 | Configurations, settings | Provides variable data to the program (often filenames) |
 | Listed first             | Listed second, after the command line options (if any)  |
 | Prefaced with a '-'      | No special format (Optionally preface with '---' to separate from options) |

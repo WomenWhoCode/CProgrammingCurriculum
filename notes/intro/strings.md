@@ -7,7 +7,7 @@ All strings in C are:
 
 ###String Literals
 ```C
-s = "string literal"
+char *s = "string literal"
 ```
 
  * Immutable (can't be changed after assignment.)
@@ -18,9 +18,12 @@ s = "string literal"
 /* To store three initials, we need an array of length 4 */
 /* Because of the 'sentinal' character */
 char initials[4]
-initials[0] = 'J'
-initials[1] = 'A'
-initials[2] = 'M'
+initials[0] = 'A'
+initials[1] = 'B'
+initials[2] = 'C'
+
+/* Shorthand: */
+char initials[] = "ABC";
 ```
 
  * Character arrays are mutable, but have a static length.
