@@ -59,6 +59,7 @@
    - **Bonus:** [Switch Statement][learn-c-hard-way-ex-13] from "Learn C The Hard Way"
    - **Bonus:** [Arrays of Strings, Looping][learn-c-hard-way-ex-10] from "Learn C The Hard Way"
    - **Bonus:** [While-Loop And Boolean Expressions][learn-c-hard-way-ex-11] from "Learn C The Hard Way"
+ - **Open Source Meetup Feb 28th @ City College** [Sign up here!](https://events.openhatch.org/events/4)
 
 [variables]: notes/intro/variables.md
 [c-strings]: notes/intro/strings.md
