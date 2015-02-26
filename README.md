@@ -105,7 +105,7 @@
 
 [c-libraries]: notes/intro/libraries_intro.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
-[k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=74
+[k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=88
 [makefile-exercise]: exercises/organizing_code/makefiles.md
 [reserved-keywords]: notes/intro/reserved_keywords.md
 
