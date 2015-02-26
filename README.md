@@ -79,7 +79,7 @@
 [learn-c-hard-way-ex-11]: http://c.learncodethehardway.org/book/ex11.html
 
 ## Week 3: Basics Part 2
- - Syntax Review *(TODO)*
+ - [Syntax Review][syntax-review]
  - Type Conversion *(TODO)*
  - Getting User Input *(TODO)*
  - **Exercises:**
@@ -87,6 +87,7 @@
    - [Writing and Using Functions][learn-c-hard-way-ex-14] from "Learn C The Hard Way"
    - **Project:** Build a Game *(TODO)*
 
+[syntax-review]: notes/intro/syntax_review.md
 [learn-c-hard-way-ex-8]: http://c.learncodethehardway.org/book/ex8.html
 [learn-c-hard-way-ex-14]: http://c.learncodethehardway.org/book/ex14.html
 
