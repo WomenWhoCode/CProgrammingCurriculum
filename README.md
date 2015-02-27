@@ -89,7 +89,7 @@
    - **Bonus:** [Recursion Exercise][k-r-p86] from "Learn C The Hard Way"
 
 [syntax-review]: notes/intro/syntax_review.md
-[k-r-p-42]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=56
+[k-r-p42]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=56
 [getting-user-input]: notes/intro/getting_user_input.md
 [learn-c-hard-way-ex-8]: http://c.learncodethehardway.org/book/ex8.html
 [learn-c-hard-way-ex-14]: http://c.learncodethehardway.org/book/ex14.html
