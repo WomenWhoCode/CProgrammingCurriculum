@@ -79,18 +79,22 @@
 [learn-c-hard-way-ex-11]: http://c.learncodethehardway.org/book/ex11.html
 
 ## Week 3: Basics Part 2
- - Arrays *(TODO)*
-   - **Exercise:** [Sizes and Arrays][learn-c-hard-way-ex-8] from "Learn C The Hard Way"
- - Functions *(TODO)*
-   - **Exercise:** [Writing and Using Functions][learn-c-hard-way-ex-14] from "Learn C The Hard Way"
- - More About Data Types *(TODO)*
- - Type Conversion *(TODO)*
- - Getting User Input *(TODO)*
- - **exercise**s *(TODO)*
-   - **Exercise:** Basic Calculator *(TODO)*
+ - [Syntax Review][syntax-review]
+ - [Type Conversion][k-r-p42] from "The C Programming Language" (p.42-46)
+ - [Getting User Input][getting-user-input]
+ - **Exercises:**
+   - [Sizes and Arrays][learn-c-hard-way-ex-8] from "Learn C The Hard Way"
+   - [Writing and Using Functions][learn-c-hard-way-ex-14] from "Learn C The Hard Way"
+   - **Project:** [Make a Game][game-project]
+   - **Bonus:** [Recursion Exercise][k-r-p86] from "Learn C The Hard Way"
 
+[syntax-review]: notes/intro/syntax_review.md
+[k-r-p42]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=56
+[getting-user-input]: notes/intro/getting_user_input.md
 [learn-c-hard-way-ex-8]: http://c.learncodethehardway.org/book/ex8.html
 [learn-c-hard-way-ex-14]: http://c.learncodethehardway.org/book/ex14.html
+[game-project]: projects/make_a_game.md
+[k-r-p86]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=100
 
 ## Week 4: C Specific Basics
  - [C Libraries][c-libraries]
@@ -105,7 +109,7 @@
 
 [c-libraries]: notes/intro/libraries_intro.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
-[k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=74
+[k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=88
 [makefile-exercise]: exercises/organizing_code/makefiles.md
 [reserved-keywords]: notes/intro/reserved_keywords.md
 

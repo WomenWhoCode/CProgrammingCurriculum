@@ -9,7 +9,16 @@
 [coreutils]: http://git.savannah.gnu.org/cgit/coreutils.git/tree/src
 
 #Completed Projects:
-##Be the first to list your project!
+##Games
+ - Finished Project Here
+
+##Small Tools
+ - Your Project Here!
+
+##Other
+ - Your Project Here!
+
+##Listing Your Project
 1. Complete a project in C.
 2. Fork this repository.
 3. Check out your fork, and update this file to list your project.
