@@ -6,7 +6,7 @@
 // 'printf' and 'scanf'.
 
 // "int" below is the type returned by this function
-int main(int argc, char *argv[]) <- "main" is the function that your program runs
+int main(int argc, char *argv[]) // <- "main" is the function that your program runs
 {
   // Above, we name the arguments of the "main" function. "main" is special
   // because it gets any arguments entered on the command line in an array as
@@ -16,10 +16,10 @@ int main(int argc, char *argv[]) <- "main" is the function that your program run
   // argument.
 
 
-  // Lines __ through __ print command line arguments
+  // Below we print out the command line arguments:
   int i; // <- Notice we always have a "type declaration", which here is "int".
-  // <- the "for" loop executes the block repeatedly until the condition "i < argc" is false
-  for (i = 0; i < argc; i++) {
+  for (i = 0; i < argc; i++) { // <- the "for" loop executes the block repeatedly
+  // until the condition "i < argc" is false
     printf(“Command line arg %d: %s”, i, argv[i]); // <- formatted printing
     // Above, the "%d" and "%i" will be replaced with the values of "i" and "argv[i]"
   }
