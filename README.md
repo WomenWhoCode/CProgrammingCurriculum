@@ -86,6 +86,7 @@
    - [Sizes and Arrays][learn-c-hard-way-ex-8] from "Learn C The Hard Way"
    - [Writing and Using Functions][learn-c-hard-way-ex-14] from "Learn C The Hard Way"
    - **Project:** [Make a Game][game-project]
+   - **Bonus:** [Recursion Exercise][k-r-p86] from "Learn C The Hard Way"
 
 [syntax-review]: notes/intro/syntax_review.md
 [k-r-p-42]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=56
@@ -93,6 +94,7 @@
 [learn-c-hard-way-ex-8]: http://c.learncodethehardway.org/book/ex8.html
 [learn-c-hard-way-ex-14]: http://c.learncodethehardway.org/book/ex14.html
 [game-project]: projects/make_a_game.md
+[k-r-p86]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=100
 
 ## Week 4: C Specific Basics
  - [C Libraries][c-libraries]
