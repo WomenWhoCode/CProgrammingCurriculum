@@ -101,7 +101,7 @@
  - [Using multiple files in a project][using-mult-files]
  - [Advanced Compilation][advanced-compilation]
    - **Exercise:** [Variations of Fizz Buzz][fizz-buzz-variations]
- - External Variables *(TODO)*
+ - [External Variables][external-variables]
    - **Exercise:** [RPN Calculator][k-r-p74] from "The C Programming Language" (p.74-79)
  - [Make Files][make-files] *(TODO)*
    - **Exercise:** [Make some Makefiles][makefile-exercise]
@@ -111,6 +111,7 @@
 [c-libraries]: notes/intro/libraries_intro.md
 [using-mult-files]: notes/organizing_code/using_multiple_files.md
 [advanced-compilation]: notes/organizing_code/advanced_compilation.md
+[external-variables]: notes/intro/external_variables.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
 [k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=88
 [makefile-exercise]: exercises/organizing_code/makefiles.md
