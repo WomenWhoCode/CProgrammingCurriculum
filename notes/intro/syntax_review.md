@@ -20,7 +20,7 @@ int main(int argc, char *argv[]) // <- "main" is the function that your program 
   int i; // <- Notice we always have a "type declaration", which here is "int".
   for (i = 0; i < argc; i++) { // <- the "for" loop executes the block repeatedly
   // until the condition "i < argc" is false
-    printf(“Command line arg %d: %s”, i, argv[i]); // <- formatted printing
+    printf("Command line arg %d: %s\n", i, argv[i]); // <- formatted printing
     // Above, the "%d" and "%i" will be replaced with the values of "i" and "argv[i]"
   }
 
