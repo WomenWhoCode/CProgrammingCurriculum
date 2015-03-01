@@ -3,7 +3,7 @@ Nearly everything in C requires importing a library.
 
 ```C
 #include <stdio.h>
-#indluce <stdlib.h>
+#include <stdlib.h>
 ```
 
 The above code has to come first (like any other dependency
