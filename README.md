@@ -98,7 +98,8 @@
 
 ## Week 4: C Specific Basics
  - [C Libraries][c-libraries]
- - Using multiple files in a project *(TODO)*
+ - [Using multiple files in a project][using-mult-files]
+ - [Advanced Compilation][advanced-compilation]
    - **Exercise:** [Variations of Fizz Buzz][fizz-buzz-variations]
  - External Variables *(TODO)*
    - **Exercise:** [RPN Calculator][k-r-p74] from "The C Programming Language" (p.74-79)
@@ -108,6 +109,8 @@
    - **Exercise:** Caesar Cipher *(TODO)*
 
 [c-libraries]: notes/intro/libraries_intro.md
+[using-mult-files]: notes/organizing_code/using_multiple_files.md
+[advanced-compilation]: notes/organizing_code/advanced_compilation.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
 [k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=88
 [makefile-exercise]: exercises/organizing_code/makefiles.md
