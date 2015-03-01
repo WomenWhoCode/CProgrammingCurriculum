@@ -171,9 +171,13 @@ exactly the same as usual.
 
 A header file can also allow you to split code into modules and reuse it between
 projects. To pull shared code into a separate file:
+
 1. Move the function declarations to a header file.
+
 2. Move the function definitions to a separate `.c` file.
+
 3. Require the header files in your main program file.
+
 4. When you compile the program, list all the `.c` files you need.
 
 Here is how we would make our `fizz` and `buzz` functions into reusable modules:
