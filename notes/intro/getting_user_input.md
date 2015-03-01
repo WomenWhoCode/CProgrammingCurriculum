@@ -46,7 +46,7 @@ int main() {
   puts("Enter your name: ");
   // scanf will save the first 10 characters of input entered into 'name'
   scanf("%10s", name);
-  fprint("Hello %s!", name);
+  printf("Hello %s!\n", name);
 
   return 0;
 }
@@ -81,7 +81,7 @@ int main() {
   // params: pointer to a buffer, max size, and the source of the data
   fgets(name, sizeof(name), stdin);
   // "stdin" just means the data will come from the keyboard
-  fprint("Hello %s!", name);
+  printf("Hello %s!\n", name);
 
   return 0;
 }
