@@ -103,7 +103,7 @@
    - **Exercise:** [Variations of Fizz Buzz][fizz-buzz-variations]
  - [External Variables][external-variables]
    - **Exercise:** [RPN Calculator][k-r-p74] from "The C Programming Language" (p.74-79)
- - [Make Files][make-files] *(TODO)*
+ - [`make` and Makefiles][make-files]
    - **Exercise:** [Make some Makefiles][makefile-exercise]
  - sizeof and memory allocation *(TODO)*
    - **Exercise:** Caesar Cipher *(TODO)*
@@ -114,6 +114,7 @@
 [external-variables]: notes/intro/external_variables.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
 [k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=88
+[make-files]: notes/organizing_code/make_files.md
 [makefile-exercise]: exercises/organizing_code/makefiles.md
 [reserved-keywords]: notes/intro/reserved_keywords.md
 
