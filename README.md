@@ -116,12 +116,19 @@
 [k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=88
 [make-files]: notes/organizing_code/make_files.md
 [makefile-exercise]: exercises/organizing_code/makefiles.md
-[reserved-keywords]: notes/intro/reserved_keywords.md
+[sizeof-and-memory-alloc]: notes/intro/sizeof_and_memory_alloc.md
 
 ## Week 5: Pointers and Standard Libraries
- - Pointers *(TODO)*
+ - Pointers  *(TODO)*
+   - [Chapter 5: Pointers and Arrays][k-r-p93] from "The C Programming Language" (p. 93-126)
+   - [Pointers Dreaded Pointers][learn-c-hard-way-ex-15] from "Learn C The Hard Way"
+   - [Structs and Pointers To Them][learn-c-hard-way-ex-16] from "Learn C The Hard Way"
  - Standard Libraries *(TODO)*
  - **exercise**s *(TODO)*
+
+[k-r-p93]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=107
+[learn-c-hard-way-ex-15]: http://c.learncodethehardway.org/book/ex15.html
+[learn-c-hard-way-ex-16]: http://c.learncodethehardway.org/book/ex16.html
 
 ## Week 6: Memory Allocation
  - *(TODO)*
