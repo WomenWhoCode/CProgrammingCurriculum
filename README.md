@@ -105,7 +105,7 @@
    - **Exercise:** [RPN Calculator][k-r-p74] from "The C Programming Language" (p.74-79)
  - [`make` and Makefiles][make-files]
    - **Exercise:** [Make some Makefiles][makefile-exercise]
- - sizeof and memory allocation *(TODO)*
+ - [reading and writing to files][reading-and-writing-to-files]
    - **Exercise:** Caesar Cipher *(TODO)*
 
 [c-libraries]: notes/intro/libraries_intro.md
@@ -116,7 +116,7 @@
 [k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=88
 [make-files]: notes/organizing_code/make_files.md
 [makefile-exercise]: exercises/organizing_code/makefiles.md
-[sizeof-and-memory-alloc]: notes/intro/sizeof_and_memory_alloc.md
+[reading-and-writing-to-files]: notes/intro/reading_and_writing_to_files.md
 
 ## Week 5: Pointers and Standard Libraries
  - Pointers  *(TODO)*
