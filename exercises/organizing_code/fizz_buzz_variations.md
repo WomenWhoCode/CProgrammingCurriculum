@@ -30,4 +30,4 @@ Follow the rules of Fizz Buzz, but iterate through numbers using base-5 counting
 [**Solution:** Fizz Buzz Variations][fizz-buzz-variations-solution]
 
 [fizz-buzz-variations]: http://en.wikipedia.org/wiki/Fizz_buzz
-[fizz-buzz-variations-solution]: #
+[fizz-buzz-variations-solution]: https://github.com/LearnToCodeC/CProgrammingCurriculum/tree/master/solutions/code_organization/fizz_buzz_variations
