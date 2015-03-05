@@ -106,7 +106,7 @@
  - [`make` and Makefiles][make-files]
    - **Exercise:** [Make some Makefiles][makefile-exercise]
  - [reading and writing to files][reading-and-writing-to-files]
-   - **Exercise:** Caesar Cipher *(TODO)*
+   - **Exercise:** [Caesar Cipher][caesar-cipher]
 
 [c-libraries]: notes/intro/libraries_intro.md
 [using-mult-files]: notes/organizing_code/using_multiple_files.md
@@ -117,18 +117,21 @@
 [make-files]: notes/organizing_code/make_files.md
 [makefile-exercise]: exercises/organizing_code/makefiles.md
 [reading-and-writing-to-files]: notes/intro/reading_and_writing_to_files.md
+[caesar-cipher]: exercises/organizing_code/caesar_cipher.md
 
 ## Week 5: Pointers and Standard Libraries
  - Pointers  *(TODO)*
    - [Chapter 5: Pointers and Arrays][k-r-p93] from "The C Programming Language" (p. 93-126)
    - [Pointers Dreaded Pointers][learn-c-hard-way-ex-15] from "Learn C The Hard Way"
    - [Structs and Pointers To Them][learn-c-hard-way-ex-16] from "Learn C The Hard Way"
+   - [Caesar Cipher using Pointers][caesar-cipher-with-pointers-example]
  - Standard Libraries *(TODO)*
  - **exercise**s *(TODO)*
 
 [k-r-p93]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=107
 [learn-c-hard-way-ex-15]: http://c.learncodethehardway.org/book/ex15.html
 [learn-c-hard-way-ex-16]: http://c.learncodethehardway.org/book/ex16.html
+[caesar-cipher-with-pointers]: http://www.thegeekstuff.com/2014/08/c-caesar-cipher-example/
 
 ## Week 6: Memory Allocation
  - *(TODO)*
