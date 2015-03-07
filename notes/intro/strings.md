@@ -26,4 +26,4 @@ initials[2] = 'C'
 char initials[] = "ABC";
 ```
 
- * Character arrays are mutable, but have a static length.
+ * Character arrays are mutable (_can_ be changed after assignment), but have a static length.
