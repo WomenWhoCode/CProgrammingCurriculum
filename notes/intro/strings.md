@@ -7,7 +7,7 @@ All strings in C are:
 
 ###String Literals
 ```C
-char *s = "string literal"
+char s = "string literal"
 ```
 
  * Immutable (can't be changed after assignment.)
