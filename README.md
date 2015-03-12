@@ -20,7 +20,7 @@
    - [Hello World][hello-world]
    - [Formatted Printing][learn-c-hard-way-ex-3] from "Learn C The Hard Way"
      (Ignore the comments about using Make.)
-   - [Fahrenheit to Celsius][k-r-p8] from "The C Programming Language" (p.  8-14)
+   - [Fahrenheit to Celsius][k-r-p8] from "The C Programming Language" (p. 8-14)
    - [Fizz Buzz][fizz-buzz]
    - **Bonus:** [Euler Problem #1: Multiples of 3 and 5][euler-1]
    - **Bonus:** [Euler Problem #2: Even Fibonacci Numbers][euler-2]
@@ -35,7 +35,7 @@
 [hello-world]: exercises/intro/hello_world.md
 [fizz-buzz]: exercises/intro/fizz_buzz.md
 [learn-c-hard-way-ex-3]: http://c.learncodethehardway.org/book/ex3.html
-[k-r-p8]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=22
+[k-r-p8]: http://www.iups.org/media/meeting_minutes/C.pdf#page=11
 [euler-1]: https://projecteuler.net/problem=1
 [euler-2]: https://projecteuler.net/problem=2
 [euler-3]: https://projecteuler.net/problem=3
@@ -69,7 +69,7 @@
 [learn-c-hard-way-ex-12]: http://c.learncodethehardway.org/book/ex12.html
 [conditionals]: notes/intro/conditionals.md
 [loops]: notes/intro/loops.md
-[k-r-p20]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=34
+[k-r-p20]: www.iups.org/media/meeting_minutes/C.pdf#page=21
 [arithmetic-operations]: notes/intro/arithmetic_operations.md
 [learn-c-hard-way-ex-7]: http://c.learncodethehardway.org/book/ex7.html
 [learn-c-hard-way-ex-9]: http://c.learncodethehardway.org/book/ex9.html
@@ -89,12 +89,12 @@
    - **Bonus:** [Recursion Exercise][k-r-p86] from "The C Programming Language"
 
 [syntax-review]: notes/intro/syntax_review.md
-[k-r-p42]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=56
+[k-r-p42]: http://www.iups.org/media/meeting_minutes/C.pdf#page=40
 [getting-user-input]: notes/intro/getting_user_input.md
 [learn-c-hard-way-ex-8]: http://c.learncodethehardway.org/book/ex8.html
 [learn-c-hard-way-ex-14]: http://c.learncodethehardway.org/book/ex14.html
 [game-project]: projects/make_a_game.md
-[k-r-p86]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=100
+[k-r-p86]: http://www.iups.org/media/meeting_minutes/C.pdf#page=73
 
 ## Week 4: C Specific Basics
  - [C Libraries][c-libraries]
@@ -113,7 +113,7 @@
 [advanced-compilation]: notes/organizing_code/advanced_compilation.md
 [external-variables]: notes/intro/external_variables.md
 [fizz-buzz-variations]: exercises/organizing_code/fizz_buzz_variations.md
-[k-r-p74]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=88
+[k-r-p74]: http://www.iups.org/media/meeting_minutes/C.pdf#page=64
 [make-files]: notes/organizing_code/make_files.md
 [makefile-exercise]: exercises/organizing_code/makefiles.md
 [reading-and-writing-to-files]: notes/intro/reading_and_writing_to_files.md
@@ -128,7 +128,7 @@
  - Standard Libraries *(TODO)*
  - **exercise**s *(TODO)*
 
-[k-r-p93]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=107
+[k-r-p93]: http://www.iups.org/media/meeting_minutes/C.pdf#page=78
 [learn-c-hard-way-ex-15]: http://c.learncodethehardway.org/book/ex15.html
 [learn-c-hard-way-ex-16]: http://c.learncodethehardway.org/book/ex16.html
 [caesar-cipher-with-pointers]: http://www.thegeekstuff.com/2014/08/c-caesar-cipher-example/
@@ -169,7 +169,7 @@ Much of the material for this course was drawn from the following:
  - ["The C Programming Language"][k-r-main] by Brian W. Kernighan and Dennis M.  Ritchie
  - ["Learn C The Hard Way"][learn-c-hard-way-main] by Zed Shaw
 
-[k-r-main]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf
+[k-r-main]: http://www.iups.org/media/meeting_minutes/C.pdf
 [learn-c-hard-way-main]: http://c.learncodethehardway.org/book/
 
 ###License
