@@ -149,11 +149,23 @@ int main(int argc, char *argv[])
 }
 ```
 
+## Gotchas
+**You must use double quotes for the mode argument.**
+
+If you get the following error:
+> Incompatible integer to pointer conversion passing 'int' to parameter of type 'const char *'
+
+then the problem is you are passing an integer type (a single quoted char) instead of a string (double quotes).
+
 **References:**
 
 [Head First C][head-first-c] p. 109-112
 
 [The C Programming Language, Chapter 7, p. 151-168][k-r-p151]
+
+[Working with files in C - gives incompatible integer to pointer conversion][s-o-file-read-error] from StackOverflow
+
+[s-o-file-read-error]: http://stackoverflow.com/questions/25954982/working-with-files-in-c-gives-incompatible-integer-to-pointer-conversion-code
 
 [head-first-c]: http://www.amazon.com/Head-First-C-David-Griffiths/dp/1449399916
 [k-r-p151]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=165
