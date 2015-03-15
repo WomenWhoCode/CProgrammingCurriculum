@@ -47,7 +47,11 @@ and use a *header file* to include it in both your encoding programs.
  - Handle lower and upper case letters using `islower` and/or `isupper`
  - Handle errors (see [section 7.6 of "The C Programming Language"][k-r-p163])
 
-[reading-and-writing-to-files]: ../../../notes/intro/reading_and_writing_to_files.md
+**Solution:** [Caesar Cipher][caesar-cipher-solution]
+
+[reading-and-writing-to-files]: ../../notes/intro/reading_and_writing_to_files.md
 [caesar-cipher-wikipedia]: http://en.wikipedia.org/wiki/Caesar_cipher
 [k-r-p163]: http://www.iups.org/media/meeting_minutes/C.pdf#page=133
 [using-mult-files]: ../../notes/organizing_code/using_multiple_files.md
+[caesar-cipher-solution]:
+../../solutions/code_organization/caesar_cipher
