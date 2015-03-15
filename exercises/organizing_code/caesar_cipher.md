@@ -32,9 +32,9 @@ and use a *header file* to include it in both your encoding programs.
 # Extra Credit
  - Make your program handle numbers and symbols by not changing them, using `isalpha`
  - Handle lower and upper case letters using `islower` and/or `isupper`
- - Handle errors (see [section 7.6 of "The C Programming Language"][k-r-p163]
+ - Handle errors (see [section 7.6 of "The C Programming Language")][k-r-p163]
 
 [reading-and-writing-to-files]: ../../../notes/intro/reading_and_writing_to_files.md
 [caesar-cipher-wikipedia]: http://en.wikipedia.org/wiki/Caesar_cipher
-[k-r-p163]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=177
+[k-r-p163]: http://www.iups.org/media/meeting_minutes/C.pdf#page=133
 [using-mult-files]: ../../../notes/organizing_code/using_multiple_files.md
