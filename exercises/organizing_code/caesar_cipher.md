@@ -34,12 +34,13 @@ Remember the steps for sharing code:
 4. When you compile the program, list all the .c files you need.
 
 The other program to use your encoding function will
-[read a file][read-file-notes] from a filename passed on the command line, and then write an
+[read a file][read-file-notes] from a filename [passed on the command line][command-line-args-notes], and then write an
 output file with the encoded message. You will want to reuse the function
 performing the encryption between the two programs; put it in a separate file,
 and use a *header file* to include it in both your encoding programs.
 
 [read-file-notes]: https://github.com/LearnToCodeC/CProgrammingCurriculum/blob/master/notes/intro/reading_and_writing_to_files.md#reading-and-writing-files
+[command-line-args-notes]: https://github.com/LearnToCodeC/CProgrammingCurriculum/blob/master/notes/small_tools/command_line_options.md#reading-command-line-arguments
 
 # Extra Credit
  - Make your program handle numbers and symbols by not changing them, using `isalpha`
