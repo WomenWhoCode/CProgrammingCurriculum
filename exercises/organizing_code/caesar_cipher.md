@@ -23,11 +23,23 @@ should be able to redirect file input to your program:
 
 # Code Reuse
 We just learned about [using multiple files][using-mult-files]. Let's say we
-want another program to do encoding using your Caesar cipher; this one will
-read a file from a filename passed on the command line, and then write an
+want another program to do encoding using your Caesar cipher; we need to split 
+the 'encode' function into a separate file to be shared.
+
+Remember the steps for sharing code:
+
+1. Move the function declarations to a header file.
+2. Move the function definitions to a separate .c file.
+3. Require the header files in your main program file.
+4. When you compile the program, list all the .c files you need.
+
+The other program to use your encoding function will
+[read a file][read-file-notes] from a filename passed on the command line, and then write an
 output file with the encoded message. You will want to reuse the function
 performing the encryption between the two programs; put it in a separate file,
 and use a *header file* to include it in both your encoding programs.
+
+[read-file-notes]: https://github.com/LearnToCodeC/CProgrammingCurriculum/blob/master/notes/intro/reading_and_writing_to_files.md#reading-and-writing-files
 
 # Extra Credit
  - Make your program handle numbers and symbols by not changing them, using `isalpha`
