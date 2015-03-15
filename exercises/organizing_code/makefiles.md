@@ -1,6 +1,6 @@
 # Make some Makefiles
 
-Write a [make-file][makefile-notes] for the [Fizz-Buzz Project][fizz-buzz-proj].
+Write a [make-file][makefile-notes] for the [Fizz-Buzz Project][fizzbuzz-proj].
 
 **Solutions:**
  - [Fizz Buzz Project Makefile][fizzbuzz-proj-makefile-solution]
