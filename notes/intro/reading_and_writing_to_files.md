@@ -34,7 +34,9 @@ Running this program the regular way will allow you to enter a message with the
 keyboard, and then see the stretched version:
 
 > gcc text_stretcher.c -o text_stretcher && ./text_stretcher
+>
 > foo bar baz
+>
 > f o o  b a r  b a z
 
 To read a file and write the stretched version into another file, use the `<`
@@ -150,6 +152,7 @@ int main(int argc, char *argv[])
 **References:**
 
 [Head First C][head-first-c] p. 109-112
+
 [The C Programming Language, Chapter 7, p. 151-168][k-r-p151]
 
 [head-first-c]: http://www.amazon.com/Head-First-C-David-Griffiths/dp/1449399916
