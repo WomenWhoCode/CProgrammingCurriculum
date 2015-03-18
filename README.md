@@ -138,7 +138,20 @@
 [k-r-p241]: http://www.iups.org/media/meeting_minutes/C.pdf#page=200
 
 ## Week 6: Memory Allocation
- - *(TODO)*
+ - [C Memory Management][tutspoint-c-mem-management] from TutorialsPoint
+ - [Reference Documentation for Malloc][wikibooks-malloc] from Wikibooks "C Programming"
+ - [Advanced Memory Management: Dynamic Allocation, Part 1][c-prog-dyn-tut-1] from cprogramming.com
+ - **Bonus:**
+   - [Advanced Memory Management: Dynamic Allocation, Part 2][c-prog-dyn-tut-2] from cprogramming.com
+   - [Advanced Memory Management: Dynamic Allocation, Part 3][c-prog-dyn-tut-3] from cprogramming.com
+   - [Advanced Memory Management: Dynamic Allocation, Part 4][c-prog-dyn-tut-4] from cprogramming.com
+
+[tutspoint-c-mem-management]: http://www.tutorialspoint.com/cprogramming/c_memory_management.htm
+[wikibooks-malloc]: http://en.wikibooks.org/wiki/C_Programming/C_Reference/stdlib.h/malloc
+[c-prog-dyn-tut-1]: http://www.cprogramming.com/tutorial/dynamic_memory_allocation.html
+[c-prog-dyn-tut-2]: http://www.cprogramming.com/tutorial/virtual_memory_and_heaps.html
+[c-prog-dyn-tut-3]: http://www.cprogramming.com/tutorial/operator_new.html
+[c-prog-dyn-tut-4]: http://www.cprogramming.com/tutorial/c++_memory_problems.html
 
 ## Week 7: Data Types
  - [Structs][structs-intro]
