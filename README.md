@@ -148,7 +148,7 @@
 ## Week 8: Advanced Topic
  - Bitwise Operations or Buffer Overflow *(TODO)*
 
-###Bonus Material:
+##Bonus Material:
 
 - [C Snacks (Tips and Tricks)][c-snacks]
 
@@ -164,7 +164,7 @@
 [tip-calculator]: exercises/command_line_opts_args/tip_calculator.md
 [character-generator]: exercises/command_line_opts_args/character_generator.md
 
-###Resources
+##Resources
 
 Much of the material for this course was drawn from the following:
  - ["The C Programming Language"][k-r-main] by Brian W. Kernighan and Dennis M.  Ritchie
@@ -173,7 +173,7 @@ Much of the material for this course was drawn from the following:
 [k-r-main]: http://www.iups.org/media/meeting_minutes/C.pdf
 [learn-c-hard-way-main]: http://c.learncodethehardway.org/book/
 
-###License
+##License
 [MIT License][mit-license]
 
 [mit-license]: ./MIT-LICENSE
