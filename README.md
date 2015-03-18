@@ -154,12 +154,19 @@
 [c-prog-dyn-tut-4]: http://www.cprogramming.com/tutorial/c++_memory_problems.html
 
 ## Week 7: Data Types
- - [Structs][structs-intro]
+ - Structs:
+   - [Structs Intro][structs-intro]
+   - [Structs and Pointers To Them][learn-c-hard-way-ex-16] from "Learn C The Hard Way"
  - Unions *(TODO)*
  - Enums *(TODO)*
- - **exercise**s *(TODO)*
+ - **Bonus:**
+   - [Heap and Stack Memory Allocation][learn-c-hard-way-ex-17] (uses Structs) from "Learn C The Hard Way"
+   - [Input, Output, Files][learn-c-hard-way-ex-24] (Uses Enum, Struct) from "Learn C The Hard Way"
 
 [structs-intro]: notes/data_structures/structs.md
+[learn-c-hard-way-ex-16]: http://c.learncodethehardway.org/book/ex16.html
+[learn-c-hard-way-ex-17]: http://c.learncodethehardway.org/book/ex17.html
+[learn-c-hard-way-ex-24]: http://c.learncodethehardway.org/book/ex24.html
 
 ## Week 8: Advanced Topic
  - Bitwise Operations or Buffer Overflow *(TODO)*
