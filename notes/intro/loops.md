@@ -79,7 +79,6 @@ error:
 
 You can always achieve the same functionality without using `goto`.
 
-**Reference:** ["The C Programming Language" p. 60-66][k-r-p60]
+**Reference:** ["The C Programming Language" sections 3.5-3.8][k-r-p60]
 
-[k-r-p60]:
-http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=74
+[k-r-p60]: http://www.iups.org/media/meeting_minutes/C.pdf#page=53

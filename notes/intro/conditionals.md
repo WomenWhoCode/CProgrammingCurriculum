@@ -83,7 +83,6 @@ the switch~\n");`. The above code would output:
 > Getting toasty!
 > Outside the switch~
 
-**Reference:** ["The C Programming Language" p. 51-52][k-r-p51]
+**Reference:** ["The C Programming Language" Section 2.11][k-r-p51]
 
-[k-r-p51]:
-http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=65
+[k-r-p51]: http://www.iups.org/media/meeting_minutes/C.pdf#page=47

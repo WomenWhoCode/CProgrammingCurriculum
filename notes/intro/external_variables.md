@@ -27,9 +27,9 @@ for (int i = 0; i < max_count; i++) {
 
 **References**:
 
-[The C Programming Language][k-r-p80] p.80-81
+[The C Programming Language][k-r-p80] Section 4.3
 
 [Understanding the `extern` keyword in C][understanding-extern]
 
-[k-r-p80]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=94
+[k-r-p80]: http://www.iups.org/media/meeting_minutes/C.pdf#page=63
 [understanding-extern]: http://www.geeksforgeeks.org/understanding-extern-keyword-in-c/

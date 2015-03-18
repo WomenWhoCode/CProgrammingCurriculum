@@ -20,7 +20,8 @@
    - [Hello World][hello-world]
    - [Formatted Printing][learn-c-hard-way-ex-3] from "Learn C The Hard Way"
      (Ignore the comments about using Make.)
-   - [Fahrenheit to Celsius][k-r-p8] from "The C Programming Language" (p. 8-14)
+   - [Fahrenheit to Celsius][k-r-p8] from "The C Programming Language" (Sections
+     1.2-1.4)
    - [Fizz Buzz][fizz-buzz]
    - **Bonus:** [Euler Problem #1: Multiples of 3 and 5][euler-1]
    - **Bonus:** [Euler Problem #2: Even Fibonacci Numbers][euler-2]
@@ -52,8 +53,8 @@
  - [Conditionals][conditionals]
    - **Exercise:** [If, Else-If, Else][learn-c-hard-way-ex-12] from "Learn C The Hard Way" (Bonus: This exercise uses [command line arguments][command-line-options].)
  - [Loops][loops]
-   - **Exercise:** [Word Counter][k-r-p20] from "The C Programming Language" (p.  20-22)
- - [Arithmetic Operations][arithmetic-operations] from "The C Programming Language" (p.41)
+   - **Exercise:** [Word Counter][k-r-p20] from "The C Programming Language" (Sections 1.5.1-1.5.2)
+ - [Arithmetic Operations][arithmetic-operations] from "The C Programming Language" (Sections 2.5-2.6)
    - **Exercise:** [More Variables, Some Math][learn-c-hard-way-ex-7] from "Learn C The Hard Way"
  - **More Exercises:**
    - **Bonus:** [Switch Statement][learn-c-hard-way-ex-13] from "Learn C The Hard Way"
@@ -80,13 +81,13 @@
 
 ## Week 3: Basics Part 2
  - [Syntax Review][syntax-review]
- - [Type Conversion][k-r-p42] from "The C Programming Language" (p.42-46)
+ - [Type Conversion][k-r-p42] from "The C Programming Language" (Section 2.7)
  - [Getting User Input][getting-user-input]
  - **Exercises:**
    - [Sizes and Arrays][learn-c-hard-way-ex-8] from "Learn C The Hard Way"
    - [Writing and Using Functions][learn-c-hard-way-ex-14] from "Learn C The Hard Way"
    - **Project:** [Make a Game][game-project]
-   - **Bonus:** [Recursion Exercise][k-r-p86] from "The C Programming Language"
+   - **Bonus:** [Recursion Exercise][k-r-p86] from "The C Programming Language" (Section 4.10)
 
 [syntax-review]: notes/intro/syntax_review.md
 [k-r-p42]: http://www.iups.org/media/meeting_minutes/C.pdf#page=40
@@ -102,7 +103,7 @@
  - [Advanced Compilation][advanced-compilation]
    - **Exercise:** [Variations of Fizz Buzz][fizz-buzz-variations]
  - [External Variables][external-variables]
-   - **Exercise:** [RPN Calculator][k-r-p74] from "The C Programming Language" (p.74-79)
+   - **Exercise:** [RPN Calculator][k-r-p74] from "The C Programming Language" (Sections 4.3-4.6)
  - [`make` and Makefiles][make-files]
    - **Exercise:** [Make some Makefiles][makefile-exercise]
  - [reading and writing to files][reading-and-writing-to-files]

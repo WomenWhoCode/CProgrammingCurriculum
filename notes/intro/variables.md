@@ -32,7 +32,7 @@ The above program should output:
 
 ##Declaration vs. Assignment
 
-From ["The C Programming Language" p.9-10][k-r-p9]
+From ["The C Programming Language" Section 1.2][k-r-p9]
 
 > "In C, all variables must be declared before they are used, usually at the
 > beginning of the function before any executable statements. A *declaration*
@@ -58,7 +58,7 @@ From ["The C Programming Language" p.9-10][k-r-p9]
 >
 > which set the variables to their initial value."
 
-[k-r-p9]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=23
+[k-r-p9]: http://www.iups.org/media/meeting_minutes/C.pdf#page=12
 
 ##Weak Static Typing
 

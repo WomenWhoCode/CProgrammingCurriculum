@@ -24,7 +24,7 @@
 > the precedence of `*`, `/`, and `%`, which is in turn lower than unary `+` and
 > `-`. Arithmetic operators associate left to right.
 
-From ["The C Programming Language" p. 41][k-r-p41]
+From ["The C Programming Language" Sections 2.5-2.6][k-r-p41]
 
 [k-r-p41]:
-http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=55
+http://www.iups.org/media/meeting_minutes/C.pdf#page=39

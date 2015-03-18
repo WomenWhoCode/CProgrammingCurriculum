@@ -36,7 +36,7 @@ When running the above type of example, remember that you can trigger an 'EOF'
 
 Reference: [The C Programming Language section 1.4][k-r-p15], p.15
 
-[k-r-p15]: http://books.cat-v.org/computer-science/c-programming-language/The.C.Programming.Language.2nd.Edition.pdf#page=29
+[k-r-p15]: http://www.iups.org/media/meeting_minutes/C.pdf#page=17
 
 ##`scanf()`
 Example:
