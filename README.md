@@ -121,34 +121,61 @@
 [caesar-cipher]: exercises/organizing_code/caesar_cipher.md
 
 ## Week 5: Pointers and Standard Libraries
- - Pointers  *(TODO)*
-   - [Chapter 5: Pointers and Arrays][k-r-p93] from "The C Programming Language" (p. 93-126)
+ - Pointers:
+   - [Chapter 5: Pointers and Arrays][k-r-p93] from "The C Programming Language" (Chapter 5)
    - [Pointers Dreaded Pointers][learn-c-hard-way-ex-15] from "Learn C The Hard Way"
-   - [Structs and Pointers To Them][learn-c-hard-way-ex-16] from "Learn C The Hard Way"
-   - [Caesar Cipher using Pointers][caesar-cipher-with-pointers-example]
- - Standard Libraries *(TODO)*
- - **exercise**s *(TODO)*
+   - [Pointers to Functions][learn-c-hard-way-ex-18] from "Learn C The Hard Way"
+   - [Example: Caesar Cipher using Pointers][caesar-cipher-with-pointers]
+ - Standard Libraries:
+   - [C Standard libraries][wikibook-c-standard-libraries] from Wikibooks "C Programming"
+   - [Appendix B. Standard Library][k-r-p-241] from "The C Programming Language" (Appendix B.)
 
 [k-r-p93]: http://www.iups.org/media/meeting_minutes/C.pdf#page=78
 [learn-c-hard-way-ex-15]: http://c.learncodethehardway.org/book/ex15.html
-[learn-c-hard-way-ex-16]: http://c.learncodethehardway.org/book/ex16.html
+[learn-c-hard-way-ex-18]: http://c.learncodethehardway.org/book/ex18.html
 [caesar-cipher-with-pointers]: http://www.thegeekstuff.com/2014/08/c-caesar-cipher-example/
+[wikibook-c-standard-libraries]: http://en.wikibooks.org/wiki/C_Programming/Standard_libraries
+[k-r-p-241]: http://www.iups.org/media/meeting_minutes/C.pdf#page=200
 
 ## Week 6: Memory Allocation
- - *(TODO)*
+ - [Allocating Memory with `malloc`][malloc-k-n-r-notes]: summary of sections 5.4, 5.6, 6.5, and 7.8.5 from "The C Programming Language"
+ - [Reference Documentation for Malloc][wikibooks-malloc] from Wikibooks "C Programming"
+ - [Memory Allocation Intro Slides][mem-allocation-intro-slides] from U of Washington
+ - [C Memory Management][tutspoint-c-mem-management] from TutorialsPoint
+ - **Bonus:**
+   - [Advanced Memory Management: Dynamic Allocation, Part 1][c-prog-dyn-tut-1] from cprogramming.com
+   - [Advanced Memory Management: Dynamic Allocation, Part 2][c-prog-dyn-tut-2] from cprogramming.com
+   - [Advanced Memory Management: Dynamic Allocation, Part 3][c-prog-dyn-tut-3] from cprogramming.com
+   - [Advanced Memory Management: Dynamic Allocation, Part 4][c-prog-dyn-tut-4] from cprogramming.com
+
+[tutspoint-c-mem-management]: http://www.tutorialspoint.com/cprogramming/c_memory_management.htm
+[wikibooks-malloc]: http://en.wikibooks.org/wiki/C_Programming/C_Reference/stdlib.h/malloc
+[malloc-k-n-r-notes]: https://www.eskimo.com/~scs/cclass/notes/sx11a.html
+[mem-allocation-intro-slides]: https://d396qusza40orc.cloudfront.net/hardware/lecture_slides/10/101-memallocation-intro.pdf
+[c-prog-dyn-tut-1]: http://www.cprogramming.com/tutorial/dynamic_memory_allocation.html
+[c-prog-dyn-tut-2]: http://www.cprogramming.com/tutorial/virtual_memory_and_heaps.html
+[c-prog-dyn-tut-3]: http://www.cprogramming.com/tutorial/operator_new.html
+[c-prog-dyn-tut-4]: http://www.cprogramming.com/tutorial/c++_memory_problems.html
 
 ## Week 7: Data Types
- - [Structs][structs-intro]
+ - Structs:
+   - [Structs Intro][structs-intro]
+   - [Structs and Pointers To Them][learn-c-hard-way-ex-16] from "Learn C The Hard Way"
  - Unions *(TODO)*
  - Enums *(TODO)*
- - **exercise**s *(TODO)*
+ - **Bonus:**
+   - [Heap and Stack Memory Allocation][learn-c-hard-way-ex-17] (uses Structs) from "Learn C The Hard Way"
+   - [Input, Output, Files][learn-c-hard-way-ex-24] (Uses Enum, Struct) from "Learn C The Hard Way"
 
 [structs-intro]: notes/data_structures/structs.md
+[learn-c-hard-way-ex-16]: http://c.learncodethehardway.org/book/ex16.html
+[learn-c-hard-way-ex-17]: http://c.learncodethehardway.org/book/ex17.html
+[learn-c-hard-way-ex-24]: http://c.learncodethehardway.org/book/ex24.html
 
 ## Week 8: Advanced Topic
  - Bitwise Operations or Buffer Overflow *(TODO)*
 
-###Bonus Material:
+##Bonus Material:
 
 - [C Snacks (Tips and Tricks)][c-snacks]
 
@@ -164,7 +191,7 @@
 [tip-calculator]: exercises/command_line_opts_args/tip_calculator.md
 [character-generator]: exercises/command_line_opts_args/character_generator.md
 
-###Resources
+##Resources
 
 Much of the material for this course was drawn from the following:
  - ["The C Programming Language"][k-r-main] by Brian W. Kernighan and Dennis M.  Ritchie
@@ -173,7 +200,7 @@ Much of the material for this course was drawn from the following:
 [k-r-main]: http://www.iups.org/media/meeting_minutes/C.pdf
 [learn-c-hard-way-main]: http://c.learncodethehardway.org/book/
 
-###License
+##License
 [MIT License][mit-license]
 
 [mit-license]: ./MIT-LICENSE
