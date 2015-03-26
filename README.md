@@ -135,7 +135,7 @@
 [learn-c-hard-way-ex-18]: http://c.learncodethehardway.org/book/ex18.html
 [caesar-cipher-with-pointers]: http://www.thegeekstuff.com/2014/08/c-caesar-cipher-example/
 [wikibook-c-standard-libraries]: http://en.wikibooks.org/wiki/C_Programming/Standard_libraries
-[k-r-p241]: http://www.iups.org/media/meeting_minutes/C.pdf#page=200
+[k-r-p-241]: http://www.iups.org/media/meeting_minutes/C.pdf#page=200
 
 ## Week 6: Memory Allocation
  - [Allocating Memory with `malloc`][malloc-k-n-r-notes]: summary of sections 5.4, 5.6, 6.5, and 7.8.5 from "The C Programming Language"
