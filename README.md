@@ -70,7 +70,7 @@
 [learn-c-hard-way-ex-12]: http://c.learncodethehardway.org/book/ex12.html
 [conditionals]: notes/intro/conditionals.md
 [loops]: notes/intro/loops.md
-[k-r-p20]: www.iups.org/media/meeting_minutes/C.pdf#page=21
+[k-r-p20]: http://www.iups.org/media/meeting_minutes/C.pdf#page=21
 [arithmetic-operations]: notes/intro/arithmetic_operations.md
 [learn-c-hard-way-ex-7]: http://c.learncodethehardway.org/book/ex7.html
 [learn-c-hard-way-ex-9]: http://c.learncodethehardway.org/book/ex9.html
