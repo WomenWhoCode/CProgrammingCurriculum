@@ -25,6 +25,9 @@ int main()
 }
 ```
 
+Note the declaration and assignment of pointer `p` could have been more succinct: 
+`char *p = &c` but I split it up in the above snippet to be more clear.
+
 Running the above program, my computer printed this.
 ```
 Here's the address of the variable 'c': 1395622779
