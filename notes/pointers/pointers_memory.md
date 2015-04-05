@@ -4,7 +4,7 @@ For example, when we assign a string variable `char *my_string = "Foo";`,
 
 A pointer is a variable that contains the address of another variable. Here's a hand-ons example.
 
-```
+```c
 #include <stdio.h>
 int main()
 {
