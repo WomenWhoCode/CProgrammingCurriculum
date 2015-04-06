@@ -9,6 +9,13 @@
 [open-source-c-projects]: notes/meta/open_source_projects.md
 [project-ideas]: notes/meta/project_ideas.md
 
+## Prerequisites
+ - [Familiarity with Command Line Interface][learn-cli] (`pwd`, `cd`, `ls`, `mkdir`, `rmdir`, `cp`, `mv`, `rm`) 
+ - [The compiler setup][c-setup]
+
+[learn-cli]: http://cli.learncodethehardway.org/book/
+[c-setup]: http://c.learncodethehardway.org/book/ex0.html
+
 ## Week 1: Compilation
  - [Why Learn C?][why-learn-c]
  - Compiling and Running C Programs
