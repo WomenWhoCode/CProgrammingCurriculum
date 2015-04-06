@@ -129,6 +129,7 @@
 
 ## Week 5: Pointers and Standard Libraries
  - Pointers:
+   - [Pointers and Memory][pointers-memory]: Hands-on example of pointers and memory
    - [Chapter 5: Pointers and Arrays][k-r-p93] from "The C Programming Language" (Chapter 5)
    - [Pointers Dreaded Pointers][learn-c-hard-way-ex-15] from "Learn C The Hard Way"
    - [Pointers to Functions][learn-c-hard-way-ex-18] from "Learn C The Hard Way"
@@ -137,6 +138,7 @@
    - [C Standard libraries][wikibook-c-standard-libraries] from Wikibooks "C Programming"
    - [Appendix B. Standard Library][k-r-p-241] from "The C Programming Language" (Appendix B.)
 
+[pointers-memory]: notes/pointers/pointers_memory.md
 [k-r-p93]: http://www.iups.org/media/meeting_minutes/C.pdf#page=78
 [learn-c-hard-way-ex-15]: http://c.learncodethehardway.org/book/ex15.html
 [learn-c-hard-way-ex-18]: http://c.learncodethehardway.org/book/ex18.html
