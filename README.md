@@ -10,7 +10,7 @@
 [project-ideas]: notes/meta/project_ideas.md
 
 ## Prerequisites
- - [Familiarity with Command Line Interface][learn-cli] (`pwd`, `cd`, `ls`, `mkdir`, `rmdir`, `cp`, `mv`, `rm`) 
+ - [Familiarity with Command Line Interface][learn-cli] (`pwd`, `cd`, `ls`, `mkdir`, `rmdir`, `cp`, `mv`, `rm`)
  - [The compiler setup][c-setup]
 
 [learn-cli]: http://cli.learncodethehardway.org/book/
@@ -148,6 +148,7 @@
 
 ## Week 6: Memory Allocation
  - [Allocating Memory with `malloc`][malloc-k-n-r-notes]: summary of sections 5.4, 5.6, 6.5, and 7.8.5 from "The C Programming Language"
+ - [Freeing Memory][freeing-memory-k-n-r-notes]: continued summary of memory management
  - [Reference Documentation for Malloc][wikibooks-malloc] from Wikibooks "C Programming"
  - [Memory Allocation Intro Slides][mem-allocation-intro-slides] from U of Washington
  - [C Memory Management][tutspoint-c-mem-management] from TutorialsPoint
@@ -160,6 +161,7 @@
 [tutspoint-c-mem-management]: http://www.tutorialspoint.com/cprogramming/c_memory_management.htm
 [wikibooks-malloc]: http://en.wikibooks.org/wiki/C_Programming/C_Reference/stdlib.h/malloc
 [malloc-k-n-r-notes]: https://www.eskimo.com/~scs/cclass/notes/sx11a.html
+[freeing-memory-k-n-r-notes]: https://www.eskimo.com/~scs/cclass/notes/sx11b.html
 [mem-allocation-intro-slides]: https://d396qusza40orc.cloudfront.net/hardware/lecture_slides/10/101-memallocation-intro.pdf
 [c-prog-dyn-tut-1]: http://www.cprogramming.com/tutorial/dynamic_memory_allocation.html
 [c-prog-dyn-tut-2]: http://www.cprogramming.com/tutorial/virtual_memory_and_heaps.html
