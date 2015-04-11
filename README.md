@@ -180,7 +180,9 @@
 [learn-c-hard-way-ex-24]: http://c.learncodethehardway.org/book/ex24.html
 
 ## Week 8: Advanced Topic
- - Bitwise Operations or Buffer Overflow *(TODO)*
+ - [Bitwise Operations or Buffer Overflow][bitwise-cmu-lab]
+
+[bitwise-cmu-lab]: http://www.cs.cmu.edu/afs/cs/academic/class/15213-s02/www/applications/labs/lab1/datalab.html
 
 ##Bonus Material:
 
