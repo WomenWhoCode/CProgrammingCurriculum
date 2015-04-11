@@ -151,13 +151,18 @@
  - [Freeing Memory][freeing-memory-k-n-r-notes]: continued summary of memory management
  - [Reference Documentation for Malloc][wikibooks-malloc] from Wikibooks "C Programming"
  - [Memory Allocation Intro Slides][mem-allocation-intro-slides] from U of Washington
- - [C Memory Management][tutspoint-c-mem-management] from TutorialsPoint
+ - [C Memory Management Examples][tutspoint-c-mem-management] from TutorialsPoint
+ - **Exercises:**
+   - [Reimplementing `malloc` and `free`][k-n-r-section-5-4] from "The C Programming Language" (Section 5.4)
+   - [Reversing User Input Tutorial][reverse-user-input-tut] Dynamic Array Example/Tutorial from CodeCall Forum
 
 [tutspoint-c-mem-management]: http://www.tutorialspoint.com/cprogramming/c_memory_management.htm
 [wikibooks-malloc]: http://en.wikibooks.org/wiki/C_Programming/C_Reference/stdlib.h/malloc
 [malloc-k-n-r-notes]: https://www.eskimo.com/~scs/cclass/notes/sx11a.html
 [freeing-memory-k-n-r-notes]: https://www.eskimo.com/~scs/cclass/notes/sx11b.html
 [mem-allocation-intro-slides]: https://d396qusza40orc.cloudfront.net/hardware/lecture_slides/10/101-memallocation-intro.pdf
+[k-n-r-section-5-4]: http://www.iups.org/media/meeting_minutes/C.pdf#page=84
+[reverse-user-input-tut]: http://forum.codecall.net/topic/51010-dynamic-arrays-using-malloc-and-realloc/
 
 ## Week 7: Data Types
  - Structs:
