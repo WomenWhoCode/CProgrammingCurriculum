@@ -106,7 +106,7 @@ fp = fopen(name, mode);
 int getc(FILE *fp);
 ```
 
-> ... `putc` writes the character c to the file `fp` and returns the caracter
+> ... `putc` writes the character c to the file `fp` and returns the character
 > written, or `EOF` if an error occurs.
 
 ```c
