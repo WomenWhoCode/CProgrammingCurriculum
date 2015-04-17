@@ -134,11 +134,13 @@
    - [Pointers Dreaded Pointers][learn-c-hard-way-ex-15] from "Learn C The Hard Way"
    - [Pointers to Functions][learn-c-hard-way-ex-18] from "Learn C The Hard Way"
    - [Example: Caesar Cipher using Pointers][caesar-cipher-with-pointers]
+   - [Slides on Pointers and Memory][zoe-slides-pointers-mem] from our lightning talk (Thanks @hazmatzo)
  - Standard Libraries:
    - [C Standard libraries][wikibook-c-standard-libraries] from Wikibooks "C Programming"
    - [Appendix B. Standard Library][k-r-p-241] from "The C Programming Language" (Appendix B.)
 
 [pointers-memory]: notes/pointers/pointers_memory.md
+[zoe-slides-pointers-mem]: https://docs.google.com/presentation/d/1okgHQMeEjSSEBe-6pg5BnSgQtutKi_Uc6dU0yXVLwUs/edit?usp=sharing
 [k-r-p93]: http://www.iups.org/media/meeting_minutes/C.pdf#page=78
 [learn-c-hard-way-ex-15]: http://c.learncodethehardway.org/book/ex15.html
 [learn-c-hard-way-ex-18]: http://c.learncodethehardway.org/book/ex18.html
