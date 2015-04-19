@@ -18,6 +18,7 @@
 
 ## Week 1: Compilation
  - [Why Learn C?][why-learn-c]
+   - [Slides on "Why Learn C?"][daphne-slides-why-learn-c]
  - Compiling and Running C Programs
    - [gcc demo][gcc-demo]
    - [clang demo][clang-demo]
@@ -36,6 +37,7 @@
 
 
 [why-learn-c]: notes/intro/why_learn_c.md
+[daphne-slides-why-learn-c]: https://docs.google.com/presentation/d/18gWp1Lubwot9QB6nsrXT8Ds-0gX8bdqzmHxF8Gs9ZEo/edit?usp=sharing
 [gcc-demo]: notes/intro/gcc-demo.md
 [clang-demo]: notes/intro/clang-demo.md
 [clang-vs-gcc]: http://clang.llvm.org/comparison.html#gcc
