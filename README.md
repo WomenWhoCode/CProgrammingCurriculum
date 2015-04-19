@@ -209,6 +209,11 @@ Much of the material for this course was drawn from the following:
 [k-r-main]: http://www.iups.org/media/meeting_minutes/C.pdf
 [learn-c-hard-way-main]: http://c.learncodethehardway.org/book/
 
+## How to Host This Event
+[Tips for Running This Series][hosting-tips]
+
+[hosting-tips]: ./notes/meta/how_to_host.md
+
 ##License
 [MIT License][mit-license]
 
