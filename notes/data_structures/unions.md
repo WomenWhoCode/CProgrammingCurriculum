@@ -103,10 +103,10 @@ int main() {
  - Once you store a value in a union, **you have no way of knowing what type is is.**
 
 How could we store a reference to what type has been chosen for a given
-instance of a `union`? Perhaps we could use an [`enum`][enum-notes]
+instance of a `union`? [Perhaps we could use an `enum`][enum-notes]
 
 ##References:
  - Examples from [Head First C][head-first-c-book], p.246-254
 
 [head-first-c-book]: http://www.amazon.com/Head-First-C-David-Griffiths/dp/1449399916
-[enum-notes]: ./enum.md
+[enum-notes]: enums.md
