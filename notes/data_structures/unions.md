@@ -100,7 +100,7 @@ int main() {
 
 ## Gotchas
  - C++ does **not** support the *designated initializer* syntax.
- - Once you store a value in a union, **you have no way of knowing what type is is.**
+ - Once you store a value in a union, **you have no way of knowing what type it is.**
 
 How could we store a reference to what type has been chosen for a given
 instance of a `union`? [Perhaps we could use an `enum`][enum-notes]
