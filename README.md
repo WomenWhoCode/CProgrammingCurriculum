@@ -180,6 +180,7 @@
    - [Structs and Pointers To Them][learn-c-hard-way-ex-16] from "Learn C The Hard Way"
    - [Arrays of Structures][k-n-r-section-6-3] from "The C Programming Language" section 6.3
  - **Bonus:**
+   - [Pirate Treasure Game Tutorial][pirate_treasure_tutorial]
    - [Heap and Stack Memory Allocation][learn-c-hard-way-ex-17] (uses Structs) from "Learn C The Hard Way"
    - [A Simple Object System][learn-c-hard-way-ex-19] (Uses Enum, Struct) from "Learn C The Hard Way"
    - [Input, Output, Files][learn-c-hard-way-ex-24] (Uses Enum, Struct) from "Learn C The Hard Way"
@@ -187,6 +188,7 @@
 [structs-intro]: notes/data_structures/structs.md
 [unions-intro]: notes/data_structures/unions.md
 [enums-intro]: notes/data_structures/enums.md
+[pirate_treasure_tutorial]: projects/pirate_treasure_game_tutorial.md
 [k-n-r-section-6-1]: http://www.iups.org/media/meeting_minutes/C.pdf#page=105
 [k-n-r-section-6-3]: http://www.iups.org/media/meeting_minutes/C.pdf#page=109
 [k-n-r-section-6-7]: http://www.iups.org/media/meeting_minutes/C.pdf#page=119
