@@ -156,10 +156,12 @@
  - [Reference Documentation for Malloc][wikibooks-malloc] from Wikibooks "C Programming"
  - [Memory Allocation Intro Slides][mem-allocation-intro-slides] from U of Washington
  - [C Memory Management Examples][tutspoint-c-mem-management] from TutorialsPoint
+ - [Slides on Data Structures][data-structures-slides]
  - **Exercises:**
    - [Reimplementing `malloc` and `free`][k-n-r-section-5-4] from "The C Programming Language" (Section 5.4)
    - [Reversing User Input Tutorial][reverse-user-input-tut] Dynamic Array Example/Tutorial from CodeCall Forum
 
+[data-structures-slides]: https://docs.google.com/presentation/d/1P6h0GR8lIUpzSX3UwcczoXdErvq_uhGNtMKjmBxykM0/edit?usp=sharing
 [tutspoint-c-mem-management]: http://www.tutorialspoint.com/cprogramming/c_memory_management.htm
 [wikibooks-malloc]: http://en.wikibooks.org/wiki/C_Programming/C_Reference/stdlib.h/malloc
 [malloc-k-n-r-notes]: https://www.eskimo.com/~scs/cclass/notes/sx11a.html
