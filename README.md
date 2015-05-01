@@ -156,12 +156,10 @@
  - [Reference Documentation for Malloc][wikibooks-malloc] from Wikibooks "C Programming"
  - [Memory Allocation Intro Slides][mem-allocation-intro-slides] from U of Washington
  - [C Memory Management Examples][tutspoint-c-mem-management] from TutorialsPoint
- - [Slides on Data Structures][data-structures-slides]
  - **Exercises:**
    - [Reimplementing `malloc` and `free`][k-n-r-section-5-4] from "The C Programming Language" (Section 5.4)
    - [Reversing User Input Tutorial][reverse-user-input-tut] Dynamic Array Example/Tutorial from CodeCall Forum
 
-[data-structures-slides]: https://docs.google.com/presentation/d/1P6h0GR8lIUpzSX3UwcczoXdErvq_uhGNtMKjmBxykM0/edit?usp=sharing
 [tutspoint-c-mem-management]: http://www.tutorialspoint.com/cprogramming/c_memory_management.htm
 [wikibooks-malloc]: http://en.wikibooks.org/wiki/C_Programming/C_Reference/stdlib.h/malloc
 [malloc-k-n-r-notes]: https://www.eskimo.com/~scs/cclass/notes/sx11a.html
@@ -175,6 +173,7 @@
  - [TypeDef][k-n-r-section-6-7] from "The C Programming Language" section 6.7
  - [Unions][unions-intro]
  - [Enums][enums-intro]
+ - [Slides on Data Structures][data-structures-slides]
  - **Bonus Reading:**
    - [More about Structs][k-n-r-section-6-1] from "The C Programming Language" sections 6.1-6.2
    - [More about Unions][k-n-r-section-6-8] from "The C Programming Language" section 6.8
@@ -190,6 +189,7 @@
 [structs-intro]: notes/data_structures/structs.md
 [unions-intro]: notes/data_structures/unions.md
 [enums-intro]: notes/data_structures/enums.md
+[data-structures-slides]: https://docs.google.com/presentation/d/1P6h0GR8lIUpzSX3UwcczoXdErvq_uhGNtMKjmBxykM0/edit?usp=sharing
 [pirate_treasure_tutorial]: projects/pirate_treasure_game_tutorial.md
 [k-n-r-section-6-1]: http://www.iups.org/media/meeting_minutes/C.pdf#page=105
 [k-n-r-section-6-3]: http://www.iups.org/media/meeting_minutes/C.pdf#page=109
