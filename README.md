@@ -201,8 +201,10 @@
 [learn-c-hard-way-ex-24]: http://c.learncodethehardway.org/book/ex24.html
 
 ## Week 8: Advanced Topic
+ - [Intro to Binary and Hexadecimal Number Systems][intro-to-binary-khan-academy] from Khan Academy (for those who are not familiar with binary)
  - [Bitwise Operations or Buffer Overflow][bitwise-cmu-lab]
 
+[intro-to-binary-khan-academy]: https://www.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/alternate-number-bases/v/number-systems-introduction
 [bitwise-cmu-lab]: http://www.cs.cmu.edu/afs/cs/academic/class/15213-s02/www/applications/labs/lab1/datalab.html
 
 ##Bonus Material:
