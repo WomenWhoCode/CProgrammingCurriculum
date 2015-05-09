@@ -23,7 +23,7 @@ that function.
 | Function Name  | Description                                          | Difficulty    | Max number of operations |
 | -------------- | ---------------------------------------------------- | ------------- | ------------------------ |
 | bitAnd(x, y)   | (x&y) using only ~ and \|                            | 1             | 8                        |
-| bitOr(x, y)    | (x|y) using only ~ and &                             | 1             | 8                        |
+| bitOr(x, y)    | (x\|y) using only ~ and &                            | 1             | 8                        |
 | copyLSB(x)     | Word with all bits set to LSB of x                   | 2             | 5                        |
 | isEqual(x, y)  | (x === y)                                            | 2             | 5                        |
 | reverseByte(x) | Reverse the bytes of x                               | 3             | 25                       |
