@@ -204,12 +204,24 @@
  - **Binary Numbers:**
    - [Intro to Binary and Hexadecimal Number Systems][intro-to-binary-khan-academy] :movie_camera: from Khan Academy (for those who are not familiar with binary) **or**
    - [Binary Numbers Slides][binary-numbers-slides-bu] from Boston University CS101
+ - **Bitwise Operators:**
+  - [Bitwise Operators in C][bitwise-operators-tut] from TutorialsPoint
+  - [Bitwise Operators][k-n-r-section-2-9] Section 2.9 from The C Programming Language
  - **Exercises:**
-   - [Bitwise Operations or Buffer Overflow][bitwise-cmu-lab]
+   - :sparkles: [Twiddling Bits Challenge Part 1][bitwise-cmu-lab-part1] :sparkles:
+ - **Two's Compliment:**
+  - [Two's Compliment][twos-compliment-notes]
+ - **More Exercises:**
+   - :sparkles: [Twiddling Bits Challenge Part 2][bitwise-cmu-lab-part2] :sparkles:
+
 
 [binary-numbers-slides-bu]: http://www.cs.bu.edu/courses/cs101/old/2013spring/slides/CS101.03.BinaryNumbers.ppt.pdf
 [intro-to-binary-khan-academy]: https://www.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/alternate-number-bases/v/number-systems-introduction
-[bitwise-cmu-lab]: http://www.cs.cmu.edu/afs/cs/academic/class/15213-s02/www/applications/labs/lab1/datalab.html
+[bitwise-cmu-lab-part1]: projects/twiddling_bits_lab_part_1.md
+[bitwise-cmu-lab-part2]: projects/twiddling_bits_lab_part_2.md
+[bitwise-operators-tut]: http://www.tutorialspoint.com/cprogramming/c_bitwise_operators.htm
+[k-n-r-section-2-9]: http://www.iups.org/media/meeting_minutes/C.pdf#page=45
+[twos-compliment-notes]: http://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html
 
 ##Bonus Material:
 
