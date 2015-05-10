@@ -217,8 +217,8 @@
 
 [binary-numbers-slides-bu]: http://www.cs.bu.edu/courses/cs101/old/2013spring/slides/CS101.03.BinaryNumbers.ppt.pdf
 [intro-to-binary-khan-academy]: https://www.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/alternate-number-bases/v/number-systems-introduction
-[bitwise-cmu-lab-part1]: projects/twiddling_bits_lab_part_1.md
-[bitwise-cmu-lab-part2]: projects/twiddling_bits_lab_part_2.md
+[bitwise-cmu-lab-part1]: projects/twiddling_bits/twiddling_bits_lab_part_1.md
+[bitwise-cmu-lab-part2]: projects/twiddling_bits/twiddling_bits_lab_part_2.md
 [bitwise-operators-tut]: http://www.tutorialspoint.com/cprogramming/c_bitwise_operators.htm
 [k-n-r-section-2-9]: http://www.iups.org/media/meeting_minutes/C.pdf#page=45
 [twos-compliment-notes]: http://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html
