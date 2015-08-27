@@ -28,4 +28,4 @@ clang file_name.c -o executable_name && ./executable_name
 
 [Clang Documentation][clang-docs]
 
-[clang-docs]: http://clang.llvm.org/
+[clang-docs]: http://clang.llvm.org/docs/
