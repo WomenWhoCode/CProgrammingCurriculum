@@ -1,4 +1,5 @@
 #Learn To Code C
+# Overview of C programming curriculum
 
 ## Goals
  - Understand the topics listed in the curriculum.
