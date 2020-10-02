@@ -11,6 +11,8 @@ You can check the size of storage available for different
 printf("The value of FLT_MAX is %f\n", FLT_MAX);
 // You can access FLT_MIN in the same way.
 printf("A float takes %zu bytes\n", sizeof(float));
+//You can acces size of char in the same way.
+printf("A char is of size\n", sizeof(char));
 //...
 ```
 
