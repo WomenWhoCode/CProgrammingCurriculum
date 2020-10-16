@@ -1,0 +1,47 @@
+*Go to any site and paste the calculator program here *
+
+
+*REMEMEBER IT CAN BE ANY CODE, BUT THIS REPOSITORY ISNT REGISTERED WITH HACKTOBERFEST, THE ONE I'M POSTING CODE ON, SO I'll BE SHARING MY OWN REPOSITORY LINK 
+WHICH IS VERIFIED AND ILL BE ACCEPTING YOUR PULL REQUESTS AS SOON AS POSSIBLE. *
+
+
+# include <iostream>
+using namespace std;
+
+int main()
+{
+    char op;
+    float num1, num2;
+
+    cout << "Enter operator either + or - or * or /: ";
+    cin >> op;
+
+    cout << "Enter two operands: ";
+    cin >> num1 >> num2;
+
+    switch(op)
+    {
+        case '+':
+            cout << num1+num2;
+            break;
+
+        case '-':
+            cout << num1-num2;
+            break;
+
+        case '*':
+            cout << num1*num2;
+            break;
+
+        case '/':
+            cout << num1/num2;
+            break;
+
+        default:
+            // If the operator is other than +, -, * or /, error message is shown
+            cout << "Error! operator is not correct";
+            break;
+    }
+
+    return 0;
+}
