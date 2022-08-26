@@ -207,6 +207,7 @@
  - **Bitwise Operators:**
   - [Bitwise Operators in C][bitwise-operators-tut] from TutorialsPoint
   - [Bitwise Operators][k-n-r-section-2-9] Section 2.9 from The C Programming Language
+  - [Learn about bitwise operators in C](https://www.scaler.com/topics/c/bitwise-operators-in-c/) from scaler topics
  - **Exercises:**
    - :sparkles: [Twiddling Bits Challenge Part 1][bitwise-cmu-lab-part1] :sparkles:
  - **Two's Compliment:**
